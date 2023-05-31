@@ -2,7 +2,7 @@ from DBconnection.dbconf import PostgresConnection
 import pandas as pd
 
 
-class Query1:
+class Query4:
     def __init__(self):
         self.con = PostgresConnection().getConnection()
         print("Constructor called")
@@ -10,21 +10,23 @@ class Query1:
     def execute1(self):
         con = PostgresConnection().getConnection()
         cur = con.cursor()
-        query = "select s.division, sum(t.total_price) " \
-                "from ecomdb_star_schema.fact_table t " \
-                "join ecomdb_star_schema.store_dim s on s.store_key=t.store_key " \
-                "group by cube(s.division)" \
-                "order by s.division"
+        query ="SELECT s.year, SUM(t.total_price) " \
+                  "FROM ecomdb_star_schema.fact_table t " \
+                  "JOIN ecomdb_star_schema.time_dim s on s.time_key=t.time_key " \
+                    "WHERE s.year='2015'"\
+                    "GROUP BY CUBE(s.year) " \
+                    "ORDER BY s.year "
         cur.execute(query)
         result = cur.fetchall()
-        pd_data = pd.DataFrame(list(result), columns=['division', 'sales'])
+        pd_data = pd.DataFrame(list(result), columns=['year', 'sales'])
         pd_data['sales'] = pd_data['sales'].astype('float64')
+        #pd_data['year'] = pd_data['year'].astype('int')
         pd_data = pd_data.dropna()
         # print(pd_data)
         return pd_data.to_dict(orient='records')
 
 
 if __name__ == '__main__':
-    query1 = Query1()
-    data = query1.execute1()
+    query4 = Query4()
+    data = query4.execute1()
     print(data)

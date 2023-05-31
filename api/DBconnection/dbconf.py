@@ -5,7 +5,7 @@ class PostgresConnection(object):
     def __init__(self):
         self.connection = psycopg2.connect(database="ecomdb",
                                            user="postgres",
-                                           password="admin",
+                                           password="tasin805",
                                            host="127.0.0.1",
                                            port="5432")
 

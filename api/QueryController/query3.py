@@ -2,7 +2,7 @@ from DBconnection.dbconf import PostgresConnection
 import pandas as pd
 
 
-class Query1:
+class Query3:
     def __init__(self):
         self.con = PostgresConnection().getConnection()
         print("Constructor called")
@@ -10,11 +10,12 @@ class Query1:
     def execute1(self):
         con = PostgresConnection().getConnection()
         cur = con.cursor()
-        query = "select s.division, sum(t.total_price) " \
-                "from ecomdb_star_schema.fact_table t " \
-                "join ecomdb_star_schema.store_dim s on s.store_key=t.store_key " \
-                "group by cube(s.division)" \
-                "order by s.division"
+        query = "SELECT s.division, SUM(t.total_price) " \
+                "FROM ecomdb_star_schema.fact_table t " \
+                "JOIN ecomdb_star_schema.store_dim s on s.store_key=t.store_key " \
+                    "WHERE s.division='BARISAL' "\
+                    "GROUP BY CUBE(s.division) " \
+                    "ORDER BY s.division "
         cur.execute(query)
         result = cur.fetchall()
         pd_data = pd.DataFrame(list(result), columns=['division', 'sales'])
@@ -25,6 +26,6 @@ class Query1:
 
 
 if __name__ == '__main__':
-    query1 = Query1()
-    data = query1.execute1()
+    query3 = Query3()
+    data = query3.execute1()
     print(data)

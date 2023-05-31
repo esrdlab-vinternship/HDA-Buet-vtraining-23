@@ -11,9 +11,9 @@ class Query2:
         con = PostgresConnection().getConnection()
         cur = con.cursor()
         query = "SELECT s.name, SUM(t.total_price) " \
-                "FROM star_schema.fact_table t " \
-                "JOIN star_schema.customer_dim s on s.customer_key=t.customer_key " \
-                "JOIN star_schema.trans_dim tim on tim.payment_key=t.payment_key " \
+                "FROM ecomdb_star_schema.fact_table t " \
+                "JOIN ecomdb_star_schema.customer_dim s on s.customer_key=t.customer_key " \
+                "JOIN ecomdb_star_schema.trans_dim tim on tim.payment_key=t.payment_key " \
                 "GROUP BY CUBE (s.name) " \
                 "ORDER BY s.name"
         cur.execute(query)
