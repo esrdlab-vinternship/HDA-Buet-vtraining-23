@@ -1,0 +1,31 @@
+from numpy.ma import count
+
+from DBconnection.dbconf import PostgresConnection
+import pandas as pd
+
+
+class Query7:
+    def __init__(self, days):
+        self.days = days
+        self.con = PostgresConnection().getConnection()
+        print("Constructor called")
+
+    def execute(self):
+        con = PostgresConnection().getConnection()
+        cur = con.cursor()
+        query = "SELECT DISTINCT i.item_name " \
+                "FROM ecomdb_star_schema.fact_table f JOIN ecomdb_star_schema.time_dim t on f.time_key=t.time_key " \
+                "JOIN ecomdb_star_schema.trans_dim u on f.payment_key=u.payment_key " \
+                "JOIN ecomdb_star_schema.item_dim i on f.item_key=i.item_key " \
+                "WHERE CURRENT_DATE - t.t_date <= {} AND (u.trans_type='card' OR u.trans_type='mobile')".format(self.days)
+        cur.execute(query)
+        result = cur.fetchall()
+        pd_data = pd.DataFrame(list(result), columns=['item_name'])
+        pd_data = pd_data.dropna()
+        return pd_data['item_name'].tolist()
+
+
+if __name__ == '__main__':
+    query7 = Query7(days=2000)
+    data = query7.execute()
+    print(count(data))
