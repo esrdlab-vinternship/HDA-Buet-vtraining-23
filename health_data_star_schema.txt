@@ -1,0 +1,108 @@
+CREATE TABLE hddb_star_schema.geography_dim
+(
+ geo_key  varchar(50) NOT NULL,
+ upazila  varchar(50) NOT NULL,
+ district varchar(50) NOT NULL,
+ division varchar(50) NOT NULL,
+ CONSTRAINT PK_1 PRIMARY KEY ( geo_key )
+);
+
+CREATE TABLE hddb_star_schema.hospital_dim
+(
+ hospital_key  varchar(50) NOT NULL,
+ hospital_name varchar(50) NOT NULL,
+ branch_name   varchar(50) NOT NULL,
+ hospital_type varchar(50) NOT NULL,
+ email         varchar(50) NOT NULL,
+ website       varchar(50) NOT NULL,
+ address       varchar(50) NOT NULL,
+ geo_code      varchar(50) NOT NULL,
+ city          varchar(50) NOT NULL,
+ upazila       varchar(50) NOT NULL,
+ district      varchar(50) NOT NULL,
+ division      varchar(50) NOT NULL,
+ CONSTRAINT PK_2 PRIMARY KEY ( hospital_key )
+);
+
+CREATE TABLE hddb_star_schema.lab_dim
+(
+ lab_key  varchar(50) NOT NULL,
+ lab_name varchar(50) NOT NULL,
+ lab_type int NOT NULL,
+ lab_code varchar(50) NOT NULL,
+ lab_desc varchar(300) NOT NULL,
+ CONSTRAINT PK_3 PRIMARY KEY ( lab_key )
+);
+
+CREATE TABLE hddb_star_schema.test_dim
+(
+ test_key  varchar(50) NOT NULL,
+ test_name varchar(100) NOT NULL,
+ test_code varchar(50) NOT NULL,
+ specimen  varchar(50) NOT NULL,
+ ct_ref    varchar(50) NOT NULL,
+ test_desc varchar(300) NOT NULL,
+ CONSTRAINT PK_4 PRIMARY KEY ( test_key )
+);
+
+
+
+CREATE TABLE hddb_star_schema.time_dim
+(
+ time_key  varchar(50) NOT NULL,
+ date_time date NOT NULL,
+ year      int NOT NULL,
+ month     int NOT NULL,
+ day       int NOT NULL,
+ yyyymm    varchar(50) NOT NULL,
+ yyyymmdd  varchar(50) NOT NULL,
+ quarter   varchar(50) NOT NULL,
+ CONSTRAINT PK_5 PRIMARY KEY ( time_key )
+);
+
+CREATE TABLE hddb_star_schema.fact_table
+(
+ pik          varchar(50) NOT NULL,
+ time_key     varchar(50) NOT NULL,
+ geo_key      varchar(50) NOT NULL,
+ hospital_key varchar(50) NOT NULL,
+ lab_key      varchar(50) NOT NULL,
+ test_key     varchar(50) NOT NULL,
+ sales_price  numeric NOT NULL,
+ CONSTRAINT PK_6 PRIMARY KEY ( pik, time_key, geo_key, hospital_key, lab_key, test_key ),
+ CONSTRAINT FK_6 FOREIGN KEY ( time_key ) REFERENCES hddb_star_schema.time_dim ( time_key ),
+ CONSTRAINT FK_7 FOREIGN KEY ( geo_key ) REFERENCES hddb_star_schema.geography_dim ( geo_key ),
+ CONSTRAINT FK_8 FOREIGN KEY ( hospital_key ) REFERENCES hddb_star_schema.hospital_dim ( hospital_key ),
+ CONSTRAINT FK_9 FOREIGN KEY ( lab_key ) REFERENCES hddb_star_schema.lab_dim ( lab_key ),
+ CONSTRAINT FK_10 FOREIGN KEY ( test_key ) REFERENCES hddb_star_schema.test_dim ( test_key )
+);
+
+CREATE INDEX FK_1 ON hddb_star_schema.fact_table
+(
+ time_key
+);
+
+CREATE INDEX FK_2 ON hddb_star_schema.fact_table
+(
+ geo_key
+);
+
+CREATE INDEX FK_3 ON hddb_star_schema.fact_table
+(
+ hospital_key
+);
+
+CREATE INDEX FK_4 ON hddb_star_schema.fact_table
+(
+ lab_key
+);
+
+CREATE INDEX FK_5 ON hddb_star_schema.fact_table
+(
+ test_key
+);
+
+
+
+
+

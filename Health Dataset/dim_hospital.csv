@@ -1,0 +1,4 @@
+hospital_key,hospital_name,branch_name,hospital_type,email,website,address,geo_code,city,upazila,district,division
+100001,BANGLADESH EYE HOSPITAL LTD.,Dhanmondi,Private,info@bdeyehospital.com,www.mysoftltd.com,"78, Satmasjid Road (Road#27), Dhanmondi,",302616  ,DHAKA,DHANMONDI,DHAKA,DHAKA
+100002,BANGLADESH EYE HOSPITAL LTD(Mirpur),Mirpur,Private,info@bdeyehospital.com,www.mysoftltd.com,Mirpur,302648  ,DHAKA,MIRPUR,DHAKA,DHAKA
+100003,BANGLADESH EYE HOSPITAL LTD(Uttara),Uttara,Private,info@bdeyehospital.com,www.mysoftltd.com,Uttara,302694  ,DHAKA,UTTARA  PASCHIM,DHAKA,DHAKA
