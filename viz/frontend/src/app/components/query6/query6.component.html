@@ -1,0 +1,43 @@
+<div class="container">
+  <legend>
+    <h4>Q6:  For each store what are the top three products
+      offered that are most often purchased?</h4>
+  </legend>
+
+  <br>
+  <div class="row">
+    <div class="col-12">
+      <div class="card shadow">
+        <div class="card-header text-center h4">
+          Output
+          <a class="btn btn-secondary btn-sm float-end" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button"
+             aria-expanded="false" aria-controls="multiCollapseExample1">Show</a>
+        </div>
+        <div class="card-body">
+          <div *ngIf="data_all.length == 0 else elseBlock">
+            Data Receiving!!!
+          </div>
+          <ng-template #elseBlock>Data Received!!!</ng-template>
+          <div class="collapse multi-collapse" id="multiCollapseExample1">
+            <div class="card card-body">
+              <div class="row">
+                <div *ngFor="let d of data_all">
+                  {{d.store_key}}
+                  <div *ngFor="let q of d.Sales">
+                    <li>
+                      {{q}}
+                    </li>
+                  </div>
+                  <br>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+
+
+</div>

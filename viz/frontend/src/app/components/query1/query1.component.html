@@ -1,0 +1,25 @@
+<div class="container">
+  <legend>
+    <h5>Q1: Find the division wise total_sale_price joining fact table and respective dimension table </h5>
+  </legend>
+  <div class="row">
+    <div class="col-4 p-2">
+      <div class="card p-2 text-center">
+        <h2 class="text-primary text-center">Query 1</h2>
+        <h4 *ngFor="let data of data_all">
+          {{data.division}} - {{data.total_sales}}
+        </h4>
+      </div>
+    </div>
+    <div class="col-8">
+      <div class="chart-wrapper">
+        <canvas baseChart
+                [type]="'line'"
+                [datasets]="chartData"
+                [labels]="chartLabels"
+                [options]="chartOptions">
+        </canvas>
+      </div>
+    </div>
+  </div>
+</div>
