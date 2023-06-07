@@ -20,8 +20,19 @@ class Query10:
         result = cur.fetchall()
         pd_data = pd.DataFrame(list(result), columns=['store','month', 'average_sales'])
         pd_data = pd_data.dropna()
-        # print(pd_data)
-        return pd_data.to_dict(orient='records')
+
+        grouped_items = pd_data.groupby('store')
+
+        result = []
+        for item, indices in grouped_items.groups.items():
+            temp_dict = {}
+            temp_dict['store_id'] = item
+            group = pd_data.loc[indices]
+            temp_dict['sales'] = group[['month', 'average_sales']].to_dict(orient='records')
+
+            result.append(temp_dict)
+
+        return result
 
 
 if __name__ == '__main__':

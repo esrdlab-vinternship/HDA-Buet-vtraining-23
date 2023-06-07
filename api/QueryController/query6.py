@@ -19,11 +19,21 @@ class Query6:
         cur.execute(query)
         result = cur.fetchall()
         pd_data = pd.DataFrame(list(result), columns=['store_id','item', 'quantity'])
-        # pd_data['sales'] = pd_data['sales'].astype('float64')
+        pd_data['quantity'] = pd_data['quantity'].astype('float64')
         pd_data = pd_data.dropna()
         top3 = pd_data.groupby('store_id').head(3)
-        top_ = top3[0:21]
-        return top_.to_dict(orient='records')
+        grouped_items_by_storeID = top3.groupby('store_id')
+
+        result = []
+        for store_id, indices in grouped_items_by_storeID.groups.items():
+            temp_dict = {}
+            temp_dict['store_id'] = store_id
+            group = top3.loc[indices]
+            temp_dict['items'] = group['item'].to_list()
+
+            result.append(temp_dict)
+
+        return result
 
 
 if __name__ == '__main__':

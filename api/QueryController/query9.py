@@ -21,8 +21,19 @@ class Query9:
         pd_data = pd.DataFrame(list(result), columns=['item','division', 'sales'])
         pd_data['sales'] = pd_data['sales'].astype('float64')
         pd_data = pd_data.dropna()
-        pd_data = pd_data[0:20]
-        return pd_data.to_dict(orient='records')
+
+        grouped_items = pd_data.groupby('item')
+
+        result = []
+        for item, indices in grouped_items.groups.items():
+            temp_dict = {}
+            temp_dict['item'] = item
+            group = pd_data.loc[indices]
+            temp_dict['sales'] = group[['division','sales']].to_dict(orient='records')
+
+            result.append(temp_dict)
+
+        return result
 
 
 if __name__ == '__main__':
