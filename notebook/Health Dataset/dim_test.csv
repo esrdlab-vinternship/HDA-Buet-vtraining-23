@@ -1,0 +1,1136 @@
+test_key,test_name,test_code,specimen,ct_ref,test_desc
+10002,Pus for Fungus,1988,PUS,BSH,Desc
+10003,Drain Fluid for Bilirubin,885,FLUID,BSH,Desc
+10004,NASAL SWAB FOR KLB,705,Not Found,BSH,Desc
+10005,X-Pert  MTB/RIF assay by archived gastric Aspirate,706,TRACHEAL ASPIRATE,BSH,Desc
+10006,Anti-Filaria Ab IgG4,192,BLOOD,BSH,Desc
+10007,Synovial Fluid For Potassium(K+),1883,FLUID,BSH,Desc
+10008,Chikungunya Antibody IgM ICT,1941,BLOOD,BSH,Desc
+10009,Pleural Fluid for C/S,1482,PLEURAL FLUID,BSH,Desc
+10010,Pleural Fluid for Gram Stain,1483,PLEURAL FLUID,BSH,Desc
+10012,Peritoneal Fluid for Protein,1488,PERITONEAL FLUID,BSH,Desc
+10013,Peritoneal Fluid for Chloride,1489,FLUID,BSH,Desc
+10014,Peritoneal Fluid for Glucose,1490,PERITONEAL FLUID,BSH,Desc
+10015,Peritoneal Ascitic Fluid for C/S,1491,PERITONEAL FLUID,BSH,Desc
+10016,Peritoneal Fluid for AFB,1493,PERITONEAL FLUID,BSH,Desc
+10017,HIV Ab I&II,179,BLOOD,BSH,Desc
+10018,Iron Profile,33333,BLOOD,BSH,Desc
+10019,Iron Profile (f),4444,BLOOD,BSH,Desc
+10020,Septin 9 Methylated DNA,1647,BLOOD,BSH,Desc
+10021,CD99,1648,TISSUE,BSH,Desc
+10022,CD23,1649,As Required,BSH,Desc
+10023,Anti-Phospholipid IgG,1443,BLOOD,BSH,Desc
+10024,Synovial Fluid for MTB DNA,1505,SYNOVIAL FLUID,BSH,Desc
+10025,BAL for TB C/S,1532,BAL,BSH,Desc
+10026,PUS for C/S (FAN Method),1528,PUS,BSH,Desc
+10027,Synovial Fluid For Phosphate(PO4),1884,FLUID,BSH,Desc
+10028,Synovial Fluid for Chloride,1885,FLUID,BSH,Desc
+10029,FNAC (CT Scan Guided),1650,As Required,BSH,Desc
+10030,CD117,1651,TISSUE,BSH,Desc
+10031,CD138,1652,As Required,BSH,Desc
+10032,Semen for C/S,1530,SEMEN,BSH,Desc
+10033,Ascitic Fluid for C/S,1673,ASCITIC FLUID,BSH,Desc
+10034,Skin Scraping for Fungus Culture,1674,SKIN SCRAPING,BSH,Desc
+10035,Fluid for Fungus Culture,1675,FLUID,BSH,Desc
+10036,Vaginal Discharge for  Culture,1676,VAGINAL DISCHARGE,BSH,Desc
+10037,Valval Smear for Fungus Culture,1677,VALVAL SMEAR,BSH,Desc
+10038,Liver needle biopsy,1281,Not Found,BSH,Desc
+10039,Skin Biopsy & DIF (HISTO-PATHOLOGY),1310,TISSUE,BSH,Desc
+10040,NT Pro BNP,834,BLOOD,BSH,Desc
+10041,Troponin I,835,BLOOD,BSH,Desc
+10042,BETA hCG,104,BLOOD,BSH,Desc
+10043,Serum IgE,111,BLOOD,BSH,Desc
+10044,CA-125,118,BLOOD,BSH,Desc
+10045,C-ANCA,155,BLOOD,BSH,Desc
+10046,Rubella IgG,379,BLOOD,BSH,Desc
+10047,Cytomegalo Virus (CMV) IgG,383,BLOOD,BSH,Desc
+10048,Herpes Simplex Virus I-II IgG & IgM,359,BLOOD,BSH,Desc
+10049,Cocaine,886,BLOOD,BSH,Desc
+10050,Fasting Insulin,1069,BLOOD,BSH,Desc
+10051,CA-15.3,1099,BLOOD,BSH,Desc
+10052,Spot Urine for Sodium,1697,URINE,BSH,Desc
+10053,Urine for Potassium Creatinine Ratio,1698,URINE,BSH,Desc
+10054,Fungus,1795,SKIN SCRAPING,BSH,Desc
+10055,Lt Ear Swab for Gram Stain,1427,EAR SWAB,BSH,Desc
+10056,Anti-HEV IgM (ELISA),195,BLOOD,BSH,Desc
+10057,Grouping + Cross Matching + Screening,BLD007,BLOOD,BSH,Desc
+10058,INR,409,BLOOD,BSH,Desc
+10059,Peptide,423,BLOOD,BSH,Desc
+10060,CUS 2hrs After Lunch,1615,URINE,BSH,Desc
+10061,CUS 2hrs After Meal,1616,URINE,BSH,Desc
+10062,Acetone (Urine),301,URINE,BSH,Desc
+10063,Urine R/S,306,URINE,BSH,Desc
+10064,Dermatophytes,307,SKIN SCRAPING,BSH,Desc
+10065,Urine-PH,327,URINE,BSH,Desc
+10066,Stool Floatation Method,329,STOOL,BSH,Desc
+10067,Hanssen Bacilli,333,SLIT SKIN SMEAR,BSH,Desc
+10068,Cyst - medium to large,1307,BLOOD,BSH,Desc
+10069,Brain tissue-small,1308,As Required,BSH,Desc
+10070,Brain tissue-medium to large,1309,As Required,BSH,Desc
+10071,Anti-HBs,188,BLOOD,BSH,Desc
+10072,Cervix alone,1263,As Required,BSH,Desc
+10073,Fistula Tract,1293,BLOOD,BSH,Desc
+10074,EBV Panel Of Abs ( VCA IgG+VCA IgM+EBNA IgG+EBNA IgM+EA IgG+EA IgM),172,BLOOD,BSH,Desc
+10075,Metanephrines (24 hrs Urine),428,BLOOD,BSH,Desc
+10076,Peritoneal Fluid for MTB DNA,1496,PERITONEAL FLUID,BSH,Desc
+10077,Electrolytes Spot Urine,1506,URINE,BSH,Desc
+10078,Na+ K+ Urine,1507,URINE,BSH,Desc
+10079,Cardiolipin IgE,671,BLOOD,BSH,Desc
+10080,TSH Receptor Antibody (TRAB),733,BLOOD,BSH,Desc
+10081,CMV IgG,779,BLOOD,BSH,Desc
+10082,Fluid ( ) for Fungus Culture,1678,FLUID.,BSH,Desc
+10083,Pleural Fluid For Lipase,1874,PLEURAL FLUID,BSH,Desc
+10084,Pleural Fluid For Sodium(Na+),1875,FLUID,BSH,Desc
+10085,Pleural Fluid For Potassium(K+),1876,FLUID,BSH,Desc
+10086,"Immunohistochemistry Breast Panel		",1029,TISSUE,BSH,Desc
+10087,Synovial Fluid For Amylase,1879,FLUID,BSH,Desc
+10088,Urine For OBT,344,URINE,BSH,Desc
+10089,Ascitic Fulid for Albumin,367,ASCITIC FLUID,BSH,Desc
+10090,Blood For Micro-Filaria,370,WHOLE BLOOD,BSH,Desc
+10091,LD Bodies,431,WHOLE BLOOD,BSH,Desc
+10092,WBC,472,As Required,BSH,Desc
+10093,Pleural fluid for ADA,544,PLEURAL FLUID,BSH,Desc
+10094,Clot Rertraction Test,547,As Required,BSH,Desc
+10095,Synovial Fluid For Creatinine,1880,FLUID,BSH,Desc
+10096,Synovial Fluid For Lipase,1881,FLUID,BSH,Desc
+10097,Synovial Fluid For Sodium(Na+),1882,FLUID,BSH,Desc
+10098,MTB DNA For Pus,1946,PUS,BSH,Desc
+10099,Synovial Fluid for C/S,1672,SYNOVIAL FLUID,BSH,Desc
+10100,RA/RF,83,BLOOD,BSH,Desc
+10101,Sodium - Urine,1971,URINE(SPOT),BSH,Desc
+10102,Bilirubin Serum,248,BLOOD,BSH,Desc
+10103,Serum Insulin,253,BLOOD,BSH,Desc
+10104, Urinary Protein (Spot),259,URINE,BSH,Desc
+10105,Glucose 2hrs After Meal Blood,263,BLOOD,BSH,Desc
+10106,Aldolase Serum,264,BLOOD,BSH,Desc
+10107,"Stock W/B, PBRC",BLD017,BLOOD,BSH,Desc
+10108,Valproic Acid ( Valporate ),262,BLOOD,BSH,Desc
+10109,Ascitic Fluid for AFB,1466,ASCITIC FLUID,BSH,Desc
+10110,Soft tissue lumps,1283,TISSUE,BSH,Desc
+10111,Phosphate - Urine,1969,URINE(SPOT),BSH,Desc
+10112,Uric Acid - Urine,1970,URINE(SPOT),BSH,Desc
+10113,Urinary Sodium 24hrs,252,URINE,BSH,Desc
+10114,PRP (upto 10ml),323,BLOOD,BSH,Desc
+10115,Total Protein Urine 24hrs,209,URINE,BSH,Desc
+10116,Copper Serum,404,BLOOD,BSH,Desc
+10117,Phosphate Urine 24hrs,50,URINE,BSH,Desc
+10118,Fungus(GMS) Stain,271,CSF,BSH,Desc
+10119,Malaria Parasite,10,WHOLE BLOOD,BSH,Desc
+10120,BCR-ABL PCR (Quantitative),1947,BLOOD,BSH,Desc
+10121,Filaria Ab (IgM+IgG) ICT,1951,BLOOD,BSH,Desc
+10122,Synovial Fluid for Chloride,1498,FLUID,BSH,Desc
+10123,Amylase Urine,1508,URINE,BSH,Desc
+10124,Ascitic Fluid for Cytology,1467,ASCITIC FLUID,BSH,Desc
+10125,Ascitic Fluid for Malignant Cell,1468,ASCITIC FLUID,BSH,Desc
+10126,Ascitic Fluid for MTB DNA,1469,ASCITIC FLUID,BSH,Desc
+10127,Pericardial Fluid for Protein,1470,PERICARDIAL FLUID,BSH,Desc
+10128,Ascitic Fluid for Biochemisry,1471,ASCITIC FLUID,BSH,Desc
+10129,Pericardial Fluid for Glucose,1472,PERICARDIAL FLUID,BSH,Desc
+10130,Anti-TB IgA,200,BLOOD,BSH,Desc
+10131,e-GFR (Estimated G. Filtration Rate),1202,BLOOD,BSH,Desc
+10132,Rh-Antibody Titre,87,BLOOD,BSH,Desc
+10133,Anti-Thyroglobulin Ab,119,BLOOD,BSH,Desc
+10134,Anti-Cardiolipin Ab,1237,BLOOD,BSH,Desc
+10135,Growth Hormone,62,BLOOD,BSH,Desc
+10136,Anti-ds DNA Antibody (ELISA),105,BLOOD,BSH,Desc
+10137,Sputum for Malignant Cell,223,SPUTUM,BSH,Desc
+10138,Anti-Cardiolipin IgG,1446_9,BLOOD,BSH,Desc
+10139,Pleural Fluid for Protein,1479,PLEURAL FLUID,BSH,Desc
+10140,Anti-Cardiolipin IgA,1448,BLOOD,BSH,Desc
+10141,Pleural Fluid for Biochemistry,1480,PLEURAL FLUID,BSH,Desc
+10142,Pleural Fluid for Glucose,1481,PLEURAL FLUID,BSH,Desc
+10143,Rt Ear Swab for Gram Stain,1425,EAR SWAB,BSH,Desc
+10144,Lt Ear Swab for C/S,1426,EAR SWAB,BSH,Desc
+10145,Viral Meningitis Panel (7 Pathogens),1428,CSF,BSH,Desc
+10146,Pericardial Fluid for Gram Stain,1474,PERICARDIAL FLUID,BSH,Desc
+10147,CD7,362,TISSUE,BSH,Desc
+10148,"Immunohistochemistry-9		",1292,As Required,BSH,Desc
+10149,Tissue Transglutaminase lgA (tTg-A),107,BLOOD,BSH,Desc
+10150,Karyotype,606,BLOOD,BSH,Desc
+10151,MCHC,162,WHOLE BLOOD,BSH,Desc
+10152,Immuno Electrophoresis,461,BLOOD.,BSH,Desc
+10153,Venous Blood Gas (VBG),9_0832,BLOOD,BSH,Desc
+10154,URINE FOR PH,334,URINE,BSH,Desc
+10155,Filarial Antigen,312,BLOOD,BSH,Desc
+10156,Total Iron Binding Capacity (TIBC) Blood,273,BLOOD,BSH,Desc
+10157,Stool for C/S,374,STOOL,BSH,Desc
+10158,Urinary Albumin Excretion (UAE),1968,URINE,BSH,Desc
+10159,Urinary Albumin Excretion Rate,1977,URINE,BSH,Desc
+10160,TB Ab Combined (IgG+IgM) (ICT),560,BLOOD,BSH,Desc
+10161,CFT For Filaria,221,BLOOD.,BSH,Desc
+10162,Falciparum Malaria Vivax,1440,BLOOD,BSH,Desc
+10163,Pericardial fluid for Bacteriology,F2057,FLUID,BSH,Desc
+10164,Electrolytes (HCO3),1978,BLOOD,BSH,Desc
+10165,CK-MB Serum (CCU),1985,BLOOD,BSH,Desc
+10166,SPUTUM FOR BIOCHEMISTRY,2056,SPUTUM,BSH,Desc
+10167,Peritoneal Dialysis Fluid for C/S,1981,PERITONEAL FLUID,BSH,Desc
+10168,Gram Stain for Fungus,1982,FLUID.,BSH,Desc
+10169,"Vitamin D (25, OH Cholecalciferol)",1979,SERUM,BSH,Desc
+10170,Glutamic Acid Decarboxylase (GAD65),1987,BLOOD,BSH,Desc
+10171,Endoscopic Biopsy,END121,TISSUE,BSH,Desc
+10172,EBV IgM,EV01,BLOOD,BSH,Desc
+10173,HBs Ag (Chemiluminescence),85,BLOOD,BSH,Desc
+10174,Anti-Brucella Ab,197,BLOOD,BSH,Desc
+10175,DAT For Kala Azar,299,BLOOD,BSH,Desc
+10176,Calorie Deprivation Test,1561,BLOOD,BSH,Desc
+10177,Electrophoresis Protein Serum (Urgent 24hrs),1562,BLOOD.,BSH,Desc
+10178,Electrophoresis Protein Serum (Urgent 48hrs),1563,BLOOD.,BSH,Desc
+10179,Anti-CCP,934,BLOOD,BSH,Desc
+10180,CSF for fungal Culture,1534,CSF,BSH,Desc
+10181,Femoral Catheter for C/S,1536,FEMORAL CATHETER,BSH,Desc
+10182,Serous Fluid for C/S,1539,As Required,BSH,Desc
+10183,Wet Film,287,As Required,BSH,Desc
+10184,Sugar (Urine),300,URINE,BSH,Desc
+10185,Wound Swab for C/S  (FAN Method),1533,WOUND SWAB,BSH,Desc
+10186,Peritoneal Fluid for LDH,1598,PERITONEAL FLUID,BSH,Desc
+10187,Rt Ear Swab for C/S,1424,EAR SWAB,BSH,Desc
+10188,HCV RNA (Quantitative),691,BLOOD PLASMA,BSH,Desc
+10189,Genome TYPING,692,BLOOD,BSH,Desc
+10190,LDH Serum,73,BLOOD,BSH,Desc
+10191,Lipid Profile Serum (F),208,BLOOD.,BSH,Desc
+10192,CUS 2hrs P.P.,1617,URINE,BSH,Desc
+10193,CUS 2.5hrs After 100gm Glucose,1618,URINE,BSH,Desc
+10194,CUS Before Dinner,1619,URINE,BSH,Desc
+10195,CUS Before Lunch,1620,URINE,BSH,Desc
+10196,Factor VIII,929,BLOOD,BSH,Desc
+10197,PLEURAL FLUID FOR TB CULTURE,18,PLEURAL FLUID,BSH,Desc
+10198,Ascitic Fluid for Genexpert,394,ASCITIC FLUID,BSH,Desc
+10199,HBV DNA (Inactive),772,BLOOD PLASMA,BSH,Desc
+10200,Bombay Group Test,BLD023,BLOOD,BSH,Desc
+10201,Cross Match T-Cell & B-Cell,809,BLOOD,BSH,Desc
+10202,CUS,1437,URINE,BSH,Desc
+10203,CSF for ADA,1438,CSF,BSH,Desc
+10204,Schistosoma (Urine),443,URINE,BSH,Desc
+10205,CSF for Protein,1452,FLUID,BSH,Desc
+10206,Calcium Creatinine Ratio,1556,URINE,BSH,Desc
+10207,Angiotensin Converting enzyme (ACE),385,BLOOD,BSH,Desc
+10208,Anti-Microsomal Ab,518,BLOOD,BSH,Desc
+10209,Gram Stain,64,TISSUE,BSH,Desc
+10210,Cell Count (Cytology),68,FLUID.,BSH,Desc
+10211,Specific Gravity - Urine,69,URINE,BSH,Desc
+10212,Phosphate Serum,234,BLOOD,BSH,Desc
+10213,HPV DNA,892,CERVICAL SWAB,BSH,Desc
+10214,TPHA,67,BLOOD,BSH,Desc
+10215,CUS 1hr After 100gm Glucose,1605,URINE,BSH,Desc
+10216,CUS 1hr After 50gm Glucose,1606,URINE,BSH,Desc
+10217,Blood for C/S,14,BLOOD,BSH,Desc
+10218,PD Fluid For R/M/E,16,As Required,BSH,Desc
+10219,PD Fluid For C/S,17,FLUID,BSH,Desc
+10220,Sputum for TB C/S,29,SPUTUM,BSH,Desc
+10221,CSF For Bacterial Meningetis Panel (Six Pathegen),166,CSF,BSH,Desc
+10222,Wound Swab for Fungal C/S,167,WOUND SWAB,BSH,Desc
+10223,Pleural fluid for Genexpert,168,PLEURAL FLUID,BSH,Desc
+10224,Bence Jones Protein - Urine,232,URINE,BSH,Desc
+10225,TB Ab IgG (ICT),1577,BLOOD,BSH,Desc
+10226,TB Ab IgM (ICT),1578,BLOOD,BSH,Desc
+10227,Falciparum Malaria Ag (ICT),1579,BLOOD,BSH,Desc
+10228,Vivax Malaria Ag (ICT),1580,BLOOD,BSH,Desc
+10229,Swab for C/S,1531,SWAB,BSH,Desc
+10230,HVS for Fungus Culture,1546,HVS.,BSH,Desc
+10231,Dengue Ag NS1 (ICT),1446,BLOOD,BSH,Desc
+10232,"CD31	",1268,BLOOD,BSH,Desc
+10233,Synovial Fluid for R/M/E,1413,SYNOVIAL FLUID,BSH,Desc
+10234,Cytology Fluid,865,FLUID,BSH,Desc
+10235,"Immunohistochemistry (Myoglobin, Desmin, S-100, HMB--45(Lymphoma Panel)		",416,TISSUE,BSH,Desc
+10236,"Immunohistochemistry-1		",1267,TISSUE,BSH,Desc
+10237,"Immunohistochemistry-3		",1276,TISSUE,BSH,Desc
+10238,Neck mass,1289,TISSUE,BSH,Desc
+10239,CSF for Bacterial Antigen,1540,CSF,BSH,Desc
+10240,Skin Scrapings for M/E (Fungus),1541,SKIN SCRAPING,BSH,Desc
+10241,Ketone Bodies-Urine,71,URINE,BSH,Desc
+10242,Bile Pigment - Urine,77,URINE,BSH,Desc
+10243,"CFT-Hydatid Diseases,Casonis Test",296,BLOOD,BSH,Desc
+10244,Monospot/Paul-Bunnel Test,298,BLOOD,BSH,Desc
+10245,CROSS MATCH-2 UNIT,303,BLOOD,BSH,Desc
+10246,Colonoscopic biopsy,1320,TISSUE,BSH,Desc
+10247,CD21,1312,As Required,BSH,Desc
+10248,Liver Function Test,491,BLOOD,BSH,Desc
+10249,"Fibroid-large, single",1270,BLOOD,BSH,Desc
+10250,Brain Abscess For AFB,1417,Brain Abscess,BSH,Desc
+10251,Beta 2 Microglobulin,455,BLOOD,BSH,Desc
+10252,Urine for C/S,165,URINE,BSH,Desc
+10253,Widal Test,92,BLOOD,BSH,Desc
+10254,CUS 1.5hrs After 75gm Glucose,1602,URINE,BSH,Desc
+10255,Pericardial Fluid for Cytology,1476,PERICARDIAL FLUID,BSH,Desc
+10256,BAL for C/S,1631,BAL,BSH,Desc
+10257,Albumin Serum,267,BLOOD,BSH,Desc
+10258,CVP Line for C/S,1537,CVP Line,BSH,Desc
+10260,Carbamazepine Serum,231,BLOOD,BSH,Desc
+10261,Stool/Fecal for Calprotectin,245,STOOL,BSH,Desc
+10262,Kala Azar,176,BLOOD,BSH,Desc
+10263,Filaria Ag (ICT),207,BLOOD,BSH,Desc
+10264,RA/RF,9_0083,BLOOD,BSH,Desc
+10265,Rose Waaler Test,84,BLOOD,BSH,Desc
+10266,Fractional Excreation of Sodium (FENa)-(Fractional Excreation of Sodium (FENa)),457895,BLOOD,BSH,Desc
+10267,Gall Bladder,1299,TISSUE,BSH,Desc
+10268,Cyst - small,1306,BLOOD,BSH,Desc
+10269,Skin Biopsy,1279,As Required,BSH,Desc
+10270,Histopathology - Small,1638,TISSUE,BSH,Desc
+10271,BRAF V600 Mutation,1639,TISSUE,BSH,Desc
+10272,PUS for Genexpert,1547,PUS,BSH,Desc
+10273,Gastric lavage for AFB,1520,Gastric Lavage,BSH,Desc
+10274,Stool for Clostridium Difficile (RT PCR Method),1521,STOOL,BSH,Desc
+10275,ET Tube for C/S,1522,ET Tube,BSH,Desc
+10276,FVC Tip for C/S,1523,FVC Tube,BSH,Desc
+10277,CV Line Tip for C/S,1524,CV Line Tip,BSH,Desc
+10278,Nipple Discharge for C/S,1525,As Required,BSH,Desc
+10279,C/S for Fungus,1526,Brain,BSH,Desc
+10280,IT Tube Tip for C/S,1527,IT Tube Tip,BSH,Desc
+10281,Anti-Phospholipid Ab,1236,BLOOD,BSH,Desc
+10282,Ascitic Fluid for C/S,1464,ASCITIC FLUID,BSH,Desc
+10283,"TISSUE TYPING (HLA-A,B,DR)",699,BLOOD,BSH,Desc
+10284,Electrophoresis Hb Blood (Urgent 24hrs),1564,BLOOD.,BSH,Desc
+10285,Electrophoresis Hb Blood (Urgent 48hrs),1565,BLOOD.,BSH,Desc
+10286,Ceruloplasmin Blood,563,BLOOD,BSH,Desc
+10287,HLA-B27,716,WHOLE BLOOD,BSH,Desc
+10288,HLA-DR Typing (DNA Based)-(HLA-DR Typing (DNA Based)),698,BLOOD,BSH,Desc
+10289,HBV DNA Mutation (YMDD),916,BLOOD PLASMA,BSH,Desc
+10290,HCV Genotyping,917,BLOOD PLASMA,BSH,Desc
+10291,Anti-HCV,190,BLOOD,BSH,Desc
+10292,Herpes Simplex Virus-II IgM,1581,BLOOD,BSH,Desc
+10293,Dengue ICT,1571,BLOOD,BSH,Desc
+10294,Anti- Scl 70,1572,BLOOD,BSH,Desc
+10295,Cytomegalo virus (CMV) DNA Real Time PCR,1573,BLOOD,BSH,Desc
+10296,HBV DNA,707,BLOOD PLASMA,BSH,Desc
+10297,Gastric lavage for AFB,822,Gastric Lavage,BSH,Desc
+10298,Parathyroid Hormone (PTH),942,BLOOD,BSH,Desc
+10299,HIV Ab (ICT),373,BLOOD,BSH,Desc
+10300,Fibrinogen Level,393,BLOOD,BSH,Desc
+10301,RBC-Urine,562,URINE,BSH,Desc
+10302,Ascitic Fluid for Chloride,1462,ASCITIC FLUID,BSH,Desc
+10303,Rt Conjunctival Swab for C/S,1420,As Required,BSH,Desc
+10304,Ascitic Fluid for Glucose,1463,ASCITIC FLUID,BSH,Desc
+10305,Fluid for Gram Stain,1421,FLUID,BSH,Desc
+10306,Ascitic Fluid for Gram Stain,1465,ASCITIC FLUID,BSH,Desc
+10307,Lt Conjunctival Swab for C/S,1422,CONJUNCTIVAL SWAB,BSH,Desc
+10308,Lt Conjunctival Swab for Gram Stain,1423,CONJUNCTIVAL SWAB,BSH,Desc
+10309,TSH,101,BLOOD,BSH,Desc
+10310,P-ANCA,154,BLOOD,BSH,Desc
+10311,S-Aldosterone,668,BLOOD,BSH,Desc
+10312,CD68,1644,TISSUE,BSH,Desc
+10313,CD79a,1646,BLOOD,BSH,Desc
+10314,Anti-HAV IgM,189,BLOOD,BSH,Desc
+10315,Anti-HBc IgM,186,BLOOD,BSH,Desc
+10316,Urine-HCG,341,URINE,BSH,Desc
+10317,Barbiturates,681,BLOOD,BSH,Desc
+10318,Blood Flowcytometry (1),255,BLOOD,BSH,Desc
+10319,Electrophoresis Hb Blood,396,BLOOD.,BSH,Desc
+10320,Blood Glucose - Fasting ABF or 75gm,939,BLOOD,BSH,Desc
+10321,GA Test,243,BLOOD,BSH,Desc
+10322,Blood For Cross Matching,250,BLOOD,BSH,Desc
+10323,Anti-DNA Antibody,258,BLOOD,BSH,Desc
+10324,CROSS MATCH 4 UNIT,278,BLOOD,BSH,Desc
+10325,C3,285,BLOOD,BSH,Desc
+10326,Factor IX,930,BLOOD,BSH,Desc
+10327,Anti-CCP Antibody (ELISA),933,BLOOD,BSH,Desc
+10328,Fluid For Amylase,12456889,PERITONEAL FLUID,BSH,Desc
+10329,''O'' Cell (PRBC) Suspended in AB Plasma,BLD001,BLOOD,BSH,Desc
+10330,Autologus,BLD022,BLOOD,BSH,Desc
+10331,Sputum for Genexpert-(Sputum for Genexpert),999,SPUTUM,BSH,Desc
+10332,Sex Hormon Binding Globulin(SHBG),immo-145,BLOOD,BSH,Desc
+10333,LMP,2008,As Required,BSH,Desc
+10334,Bronchial tissue,2009,As Required,BSH,Desc
+10335,Lysozyme,2010,As Required,BSH,Desc
+10336,TTF1,2011,TISSUE,BSH,Desc
+10337,Myeloperoxidase,2013,As Required,BSH,Desc
+10338,Muscle Action,2015,As Required,BSH,Desc
+10339,Colonoscopic biopsy  (colon),2016,As Required,BSH,Desc
+10340,Pericardial Fluid for Malignant Cell,2017,PERICARDIAL FLUID,BSH,Desc
+10341,CEA (HISTO),2018,As Required,BSH,Desc
+10342,ROS 1,2019,TISSUE,BSH,Desc
+10343,Pleural fluid for cytology,2020,PLEURAL FLUID,BSH,Desc
+10344,NSF,2021,As Required,BSH,Desc
+10345,Endometrial tissue (multiple / large ),2022,As Required,BSH,Desc
+10346,PLAP,2023,As Required,BSH,Desc
+10347,Synaptophysin,2024,As Required,BSH,Desc
+10348,Tdt,2025,As Required,BSH,Desc
+10349,P63,2026,As Required,BSH,Desc
+10350,CK17,2027,As Required,BSH,Desc
+10351,Gall bladder with mass,2028,TISSUE,BSH,Desc
+10352,Gall bladder with liver tissue,2029,TISSUE,BSH,Desc
+10353,Melan A,2030,As Required,BSH,Desc
+10354,WT1 Protein,2031,As Required,BSH,Desc
+10355,Gastric lavage for Cytopathology/Cytology,2032,Gastric Lavage,BSH,Desc
+10356,Hepatitis B Antibodies,9003,BLOOD,BSH,Desc
+10357,HBc Total,9001,SERUM,BSH,Desc
+10358,Anti-HBe,9002,SERUM,BSH,Desc
+10359,"ER,PR & HER 2 (NEU)",5555,TISSUE,BSH,Desc
+10360,Hysterectomy specimen both adnexae,2033,As Required,BSH,Desc
+10361,Brain Abscess For Fungus Stain,2034,Brain Abscess,BSH,Desc
+10362,Liver tissue (small) - Needle Biopsy,2035,As Required,BSH,Desc
+10363,Liver tissue (large),2036,As Required,BSH,Desc
+10364,CD45,2037,As Required,BSH,Desc
+10365,Masterectomy specimen with lymph node,2038,As Required,BSH,Desc
+10366,CDX2,2039,As Required,BSH,Desc
+10367,AFP,20039,As Required,BSH,Desc
+10368,CK19,2040,As Required,BSH,Desc
+10369,Nephrectory specimen/ Whole kidney,2041,As Required,BSH,Desc
+10370,Vimentin,2042,As Required,BSH,Desc
+10371,Neck mass (large),2043,As Required,BSH,Desc
+10372,Cell Block,2044,TISSUE,BSH,Desc
+10373,CD45,2048,As Required,BSH,Desc
+10374,CD68,2049,As Required,BSH,Desc
+10375,P53,2080,As Required,BSH,Desc
+10376,Chorionic Gondadotrophin,2081,As Required,BSH,Desc
+10377,Glycophorin A,2082,As Required,BSH,Desc
+10378,Review report ( More than 2 slides),2083,As Required,BSH,Desc
+10379,HER2 neu,2084,Paraffin Block,BSH,Desc
+10380,PAS Stain,2085,As Required,BSH,Desc
+10381,Skin for DIF,2086,As Required,BSH,Desc
+10382,Urinary Eosinophil Count,124545,URINE,BSH,Desc
+10383,Sputum  for R/E,Micro120,SPUTUM,BSH,Desc
+10384,MUM1,2087,As Required,BSH,Desc
+10385,HBs for Scoring,2088,SWAB,BSH,Desc
+10386,Chromogranin,2089,As Required,BSH,Desc
+10387,ER.,2090,As Required,BSH,Desc
+10388,CD3,2091,As Required,BSH,Desc
+10389,Ki67,2092,As Required,BSH,Desc
+10390,CD5,2093,As Required,BSH,Desc
+10391,Calratinin,2094,As Required,BSH,Desc
+10392,CD20,2095,As Required,BSH,Desc
+10393,Pax5,2096,As Required,BSH,Desc
+10394,PR.,2097,As Required,BSH,Desc
+10395,Tonsil Single,2098,As Required,BSH,Desc
+10396,"Histopathology (1)		",2099,TISSUE,BSH,Desc
+10397,"Histopathology (2)		",2103,TISSUE,BSH,Desc
+10398,"Histopathology (3)		",2105,TISSUE,BSH,Desc
+10399,"Histopathology (4)		",2106,TISSUE,BSH,Desc
+10400,"Histopathology (5)		",2107,TISSUE,BSH,Desc
+10401,"Histopathology (6)		",2109,TISSUE,BSH,Desc
+10402,"Histopathology for Biopsy Specimen (ICDDR'B)		",2110,TISSUE,BSH,Desc
+10403,S-100,2111,TISSUE,BSH,Desc
+10404,"Histopathology of Both Breast 		",2112,TISSUE,BSH,Desc
+10405,"Human Papiloma virus (HPV) DNA		",2113,As Required,BSH,Desc
+10406,Scraping cytology/malignant cells,2115,SKIN SCRAPING,BSH,Desc
+10407,"Hysterectomy specimen both adnexae		",2116,As Required,BSH,Desc
+10408,"Hysterectomy specimen without adnexae		",2117,As Required,BSH,Desc
+10409,CT Charge,2118,Not Found,BSH,Desc
+10410,"Icddr,b Histopathology		",2119,TISSUE,BSH,Desc
+10411,Serum Anti-Diuretic Hormone(ADH),imo454,BLOOD,BSH,Desc
+10412,Urine for Phase contrast microscopy (Fresh Urine),CLP-01,URINE,BSH,Desc
+10413,Joint Fluid for MSU & CPPD Crystal,CLP-02,Joint fluid,BSH,Desc
+10414,GENTAMICIN,1000,Not Found,BSH,Desc
+10415,METHOTREXATE,1001,Not Found,BSH,Desc
+10416,PHENOBARBITAL,1002,Not Found,BSH,Desc
+10417,HLA-B Typing (DNA Based)-(HLA-B Typing (DNA Based)),9999,Not Found,BSH,Desc
+10418,Salivary Cortisol (Morning),89556,Saliva,BSH,Desc
+10419,Bone marrow aspiration and study with G/A,Bone15454,Not Found,BSH,Desc
+10420,PUS FOR RE,BSH035,PUS,BSH,Desc
+10421,Cortisol Evening-(Cortisol Evening),1258466,BLOOD,BSH,Desc
+10422,Cortisol Morning-(Cortisol Morning),454545,BLOOD,BSH,Desc
+10423,Chest Drain Fluid for AFB,1515,FLUID,BSH,Desc
+10424,Blood Grouping and Rh Factor,206,BLOOD,BSH,Desc
+10425,Vault Smear for Cytology,1621,PAPS SMEAR,BSH,Desc
+10426,Coomb's Test (Direct),1582,BLOOD,BSH,Desc
+10427,Coomb's Test (Indirect),1583,BLOOD,BSH,Desc
+10428,Free Testosteron,734,BLOOD,BSH,Desc
+10429,Acid Phosphatase Non-Prostatic Serum,1566,BLOOD,BSH,Desc
+10430,Lymph nodes (Multiple/Large),1288,BLOOD,BSH,Desc
+10431,KRAS Mutation Blood,1315,BLOOD,BSH,Desc
+10432,Torch Panel Test,178,BLOOD,BSH,Desc
+10433,HSV IgM (I),355,BLOOD,BSH,Desc
+10434,MCH,160,WHOLE BLOOD,BSH,Desc
+10435,Fractional Excretional of uric acid (FEUA),9_0369,BLOOD & URINE,BSH,Desc
+10436,Sputum for ADA,992,ADA,BSH,Desc
+10437,Urinary Amylase,1551,URINE,BSH,Desc
+10438,Anti-TB IgM,173,BLOOD,BSH,Desc
+10439,MTB DNA Sputum,1510,SPUTUM.,BSH,Desc
+10440,Toxoplasma Antibody,247,BLOOD,BSH,Desc
+10441,17 a-Hydroxyprogesterone (17a-OHP),309,BLOOD,BSH,Desc
+10442,HSV IgG (I),347,BLOOD,BSH,Desc
+10443,Toxoplasma IgM,380,BLOOD,BSH,Desc
+10444,Semen for Cytology / Morphology,1622,SEMEN,BSH,Desc
+10445,Acetylcholine receptor antibody,233,BLOOD,BSH,Desc
+10446,Albumin (Urine),277,URINE,BSH,Desc
+10447,Throat Swab for Gram Stain,1401,THROAT SWAB,BSH,Desc
+10448,Pus for AFB,1419,PUS,BSH,Desc
+10449,RT PCR for Covid-19,1478,SWAB,BSH,Desc
+10450,Fluid for C/S,1500,FLUID,BSH,Desc
+10451,Aspiration from Skall  base for C/S,1400,THROAT SWAB,BSH,Desc
+10452,Uric Acid Urine 24hrs,276,URINE,BSH,Desc
+10454,Total Protein Serum,44,BLOOD,BSH,Desc
+10455,Herpes Simplex Virus-2 IgG,230,BLOOD,BSH,Desc
+10456,CSF for Gram Stain,1456,CSF,BSH,Desc
+10457,Synovial Fluid for Biochemistry,1499,SYNOVIAL FLUID,BSH,Desc
+10458,MTB DNA Urine,1509,URINE,BSH,Desc
+10459,Synovial Fluid for AFB,1502,SYNOVIAL FLUID,BSH,Desc
+10460,MTB DNA Tissue,1511,TISSUE,BSH,Desc
+10461,Synovial Fluid for Cytology,1503,SYNOVIAL FLUID,BSH,Desc
+10462,Synovial Fluid for Malignant Cell,1504,SYNOVIAL FLUID,BSH,Desc
+10463,Pericardial Fluid for C/S,1473,PERICARDIAL FLUID,BSH,Desc
+10464,Anti-Chlamydia IgG-(Anti-Chlamydia IgG),1450,BLOOD,BSH,Desc
+10465,Glucose 2hrs After 100gm Glucose Blood,1554,BLOOD,BSH,Desc
+10466,Glucose 2.5hrs After 100gm Glucose Blood,1555,BLOOD,BSH,Desc
+10467,Amylase Creatinine Clearance Rate,1557,BLOOD & URINE,BSH,Desc
+10468,24 hours Urinary Amylase,1558,URINE,BSH,Desc
+10469,Pleural Fluid for AFB,1484,PLEURAL FLUID,BSH,Desc
+10470,Gastric lavage for Biochemistry,1600,Gastric Lavage,BSH,Desc
+10471,Corresponding urine sugar Random,1601,URINE,BSH,Desc
+10472,CUS ? hr After 75gm Glucose,1603,URINE,BSH,Desc
+10473,Pericardial Fluid for ADA,1604,PERICARDIAL FLUID,BSH,Desc
+10474,CA-19.9,1098,BLOOD,BSH,Desc
+10475,Albumin Creatinine Ratio (ACR),9-0890,URINE,BSH,Desc
+10476,Anti-Cardiolipin IgM,1447,BLOOD,BSH,Desc
+10477,CD4,1494,As Required,BSH,Desc
+10478,Sodium Serum,1550,BLOOD,BSH,Desc
+10479,Tisssue for Culture,1535,TISSUE,BSH,Desc
+10480,CD8,1311,As Required,BSH,Desc
+10481,CD15,1319,As Required,BSH,Desc
+10482,Serum Non-Epinephrine,1635,BLOOD,BSH,Desc
+10483,Serum Epinephrine,1636,BLOOD,BSH,Desc
+10484,BAL for Sugar,1637,As Required,BSH,Desc
+10485,CRYO-PPT/Unit,BLD003,BLOOD,BSH,Desc
+10486,Urine Creatinine,260,URINE,BSH,Desc
+10487,Folic Acid Blood,432,BLOOD,BSH,Desc
+10488,LDL Cholesterol Blood,568,BLOOD,BSH,Desc
+10489,Coomb's Test,86,BLOOD,BSH,Desc
+10490,APTT,91,BLOOD,BSH,Desc
+10491,Urine for AFB,150,URINE,BSH,Desc
+10492,24 hrs Urine for AFB,181,URINE,BSH,Desc
+10493,Stool R/S,203,STOOL,BSH,Desc
+10494,FFP/Unit,BLD005,BLOOD,BSH,Desc
+10495,Renal Biopsy,1280,BLOOD,BSH,Desc
+10496,Liver tissue biopsy-medium to large,1282,BLOOD,BSH,Desc
+10497,"Immunohistochemistry-5		",1284,TISSUE,BSH,Desc
+10498,Soft tissue multiple,1285,TISSUE,BSH,Desc
+10499,Provocative Test For Filaria,332,WHOLE BLOOD,BSH,Desc
+10500,"Salmonella Typhi (IgG, IgM) (ICT)",943,BLOOD,BSH,Desc
+10501,Protein S,1242,BLOOD,BSH,Desc
+10502,Cortisol,1371,BLOOD,BSH,Desc
+10503,Myoglobin,735,BLOOD,BSH,Desc
+10504,Opiates,679,URINE,BSH,Desc
+10505,Amphetamine,680,BLOOD,BSH,Desc
+10506,MTB-PCR,753,BLOOD & URINE,BSH,Desc
+10507,Pericardial Fluid for LDH,1596,PERICARDIAL FLUID,BSH,Desc
+10508,Pleural Fluid for LDH,1597,PLEURAL FLUID,BSH,Desc
+10509,Herpes Simplex Virus-2 IgM,377,BLOOD,BSH,Desc
+10510,CAPD Fluid for Cytology,1623,FLUID,BSH,Desc
+10511,BAL for Cytology,1624,BAL,BSH,Desc
+10512,Urine for Cytology,1625,URINE,BSH,Desc
+10513,CD34,1626,As Required,BSH,Desc
+10514,CUS 2hrs After 100gm Glucose,1611,URINE,BSH,Desc
+10515,Corresponding urine sugar 2h 75gm,1612,URINE,BSH,Desc
+10516,CUS 2hrs After Dinner,1613,URINE,BSH,Desc
+10517,CSF for Malignant Cell,1459,FLUID,BSH,Desc
+10518,Drain tip for C/S,1538,Drain tip,BSH,Desc
+10519,Gastric Lavage for Genexpert,1529,Gastric Lavage,BSH,Desc
+10520,Pus for Gram Stain,1418,PUS,BSH,Desc
+10521,Umbilical Swab for Gram Stain,1429,UMBITICAL SWAB,BSH,Desc
+10522,Peritoneal Fluid for Gram Stain,1492,PERITONEAL FLUID,BSH,Desc
+10523,Synovial Fluid for Gram Stain,1501,SYNOVIAL FLUID,BSH,Desc
+10524,Urobilinogen - Urine,76,URINE,BSH,Desc
+10525,Transferrin Saturation,1559,BLOOD,BSH,Desc
+10526,Glucose 1hr After 100gm Glucose Blood,1553,BLOOD,BSH,Desc
+10527,Quantitative Urine HCG,95,URINE,BSH,Desc
+10528,Aldehyde Test (AT),97,BLOOD,BSH,Desc
+10529,TB Ab Combined (IgG+IgM) (ICT),102,BLOOD,BSH,Desc
+10530,ASK Titre,169,BLOOD,BSH,Desc
+10531,CRP (C-Reactive Protein),170,BLOOD,BSH,Desc
+10532,Triple Antigen,171,BLOOD,BSH,Desc
+10533,FTA-ABS,175,BLOOD,BSH,Desc
+10534,PCR for Urine (Protein Creatinine Ratio),945,URINE,BSH,Desc
+10535,TCO2 Blood,1239,BLOOD,BSH,Desc
+10536,CT GUIDED FNAC of Liver & Lung,556,TISSUE,BSH,Desc
+10537,Nail Scrapings for M/E (Fungus),1542,NAIL SCRAPING,BSH,Desc
+10538,Vaginal Discharge for M/E (Fungus),1543,VAGINAL DISCHARGE,BSH,Desc
+10539,Oral Swab for M/E (Fungus),1544,ORAL SWAB,BSH,Desc
+10540,Folic Acid (Folate),1574,BLOOD,BSH,Desc
+10541,Herpes Simplex Virus-II IgM,1570,BLOOD,BSH,Desc
+10542,Serum IgM Level,2413,BLOOD,BSH,Desc
+10543,Free PSA,1575,BLOOD,BSH,Desc
+10544,Pregnancy Test Urine,94,URINE,BSH,Desc
+10545,HBs Ag (ICT),180,BLOOD,BSH,Desc
+10546,Electrolyte 24 Hrs Urine,1576,URINE,BSH,Desc
+10547,Uterus and cervix without adnexae,1262,As Required,BSH,Desc
+10548,"Breast Lump,single-medium to large",1295,As Required,BSH,Desc
+10549,CMV IgM,780,BLOOD,BSH,Desc
+10550,Prothrombin Time (PT),90,BLOOD,BSH,Desc
+10551,Febrile Antigen,93,BLOOD,BSH,Desc
+10552,VDRL (Q & Q),217,BLOOD,BSH,Desc
+10553,Cross Match,297,BLOOD,BSH,Desc
+10554,Immunoglobunlins Panel,368,BLOOD,BSH,Desc
+10555,HIV(1+2)-Confirmetory,450,BLOOD,BSH,Desc
+10556,Protein C,1241,BLOOD,BSH,Desc
+10557,Anti SSA/Ro Antibody,275,BLOOD,BSH,Desc
+10558,CUS 2hrs After Food,1614,URINE,BSH,Desc
+10559,Throat Swab For R/E,389,THROAT SWAB,BSH,Desc
+10560,CSF For Viral  Meningetis Panel (Seven Pathegen),413,CSF,BSH,Desc
+10561,Ascitic Fluid for LDH,1595,ASCITIC FLUID,BSH,Desc
+10562,BAL for Fungus Culture,1545,As Required,BSH,Desc
+10563,Wound Swab for Gram Stain,1416,WOUND SWAB,BSH,Desc
+10564,Ascitic Fluid for Protein,1461,ASCITIC FLUID,BSH,Desc
+10565,Calorie Deprivation Test - Fasting,1627,BLOOD,BSH,Desc
+10566,Calorie Deprivation Test - After 48 hrs,1628,BLOOD,BSH,Desc
+10567,BAL for Gram Stain,1629,BAL,BSH,Desc
+10568,BAL for AFB,1630,BAL,BSH,Desc
+10569,"CD43	",1632,TISSUE,BSH,Desc
+10570,BAL for Malignant Cell,1633,BAL,BSH,Desc
+10571,Serum Copper,1634,BLOOD,BSH,Desc
+10572,CSF for AFB,1457,CSF,BSH,Desc
+10573,CSF for Cytology,1458,CSF,BSH,Desc
+10574,Cervical Swab for Gram Stain,1414,CERVICAL SWAB,BSH,Desc
+10575,Wound Swab for AFB,1415,WOUND SWAB,BSH,Desc
+10576,Protein Creatinine Index,1560,URINE,BSH,Desc
+10577,Sputum for C/S,1355,SPUTUM.,BSH,Desc
+10578,Prostatic Smear for C/S,1354,PROSTATIC SMEAR,BSH,Desc
+10579,HVS for C/S,1348,HVS,BSH,Desc
+10580,Throat Swab for C/S,1347,THROAT SWAB,BSH,Desc
+10581,Wound Swab for C/S,1346,WOUND SWAB,BSH,Desc
+10582,PUS for C/S,1344,PUS,BSH,Desc
+10583,Fluid (Biochemistry),1567,FLUID,BSH,Desc
+10584,Nail Scraping for Fungus Culture,1548,As Required,BSH,Desc
+10585,Herpes Simplex Virus-II IgG,1569,BLOOD,BSH,Desc
+10586,Anti Mullerian Hormone (AMH),1641,BLOOD,BSH,Desc
+10587,Herpes Simplex Virus-I IgM,1568,BLOOD,BSH,Desc
+10588,Eosinophil (Sputum),266,SPUTUM.,BSH,Desc
+10589,CD56,1642,TISSUE,BSH,Desc
+10590,BRAF V600 Mutation Blood,1643,BLOOD,BSH,Desc
+10591,Corresponding urine sugar 1h 75gm,1607,URINE,BSH,Desc
+10592,Corresponding urine sugar 1h ABF,1608,URINE,BSH,Desc
+10593,Fractional Excretional of uric acid (FEUA),1609,BLOOD & URINE,BSH,Desc
+10594,CUS 2hrs After Breakfast,1610,URINE,BSH,Desc
+10595,TC DC Hb% -PMCT,215,WHOLE BLOOD,BSH,Desc
+10596,GENTAMICIN,458,BLOOD,BSH,Desc
+10597,Anti Infectious Mono AB,310,BLOOD,BSH,Desc
+10598,Blood Crossmatching,322,BLOOD,BSH,Desc
+10599,FCFT,343,BLOOD,BSH,Desc
+10600,Weil Felix Test,350,BLOOD,BSH,Desc
+10601,Review report (more than 2 slides),1694,As Required,BSH,Desc
+10602,Lipase Serum,912,BLOOD,BSH,Desc
+10603,EML4-ALK Fusion Gene Blood,1645,BLOOD,BSH,Desc
+10604,GFAP,1653,TISSUE,BSH,Desc
+10605,MCV,254,WHOLE BLOOD,BSH,Desc
+10606,Chemical Analysis,425,WHOLE BLOOD,BSH,Desc
+10607,Potassium - Urine,1972,URINE(SPOT),BSH,Desc
+10608,Cytogenetic for ALL six Marker,1973,BONE MARROW,BSH,Desc
+10609,Sodium - Body Fluid,1974,FLUID,BSH,Desc
+10610,Potassium - Body Fluid,1975,FLUID,BSH,Desc
+10611,Glucose 2hrs P.P. Blood,335,BLOOD,BSH,Desc
+10612,Aminoacid Urine,336,URINE,BSH,Desc
+10613,VDRL,66,BLOOD,BSH,Desc
+10614,KLB Throat Swab,20,THROAT SWAB,BSH,Desc
+10615,Mantoux Test (MT),23,As Required,BSH,Desc
+10616,Urine R/M/E,24,URINE,BSH,Desc
+10617,Stool R/E,25,STOOL,BSH,Desc
+10618,Total Circulatory Esonophil Count,25663,WHOLE BLOOD,BSH,Desc
+10619,Peritoneal Fluid For Sodium(Na+),1868,FLUID,BSH,Desc
+10620,Glucose 1hr After 50gm Glucose Blood,1552,BLOOD,BSH,Desc
+10621,CSF for MTB DNA,1460,CSF,BSH,Desc
+10622,BRUCELLA AGGLUTINATION,462,BLOOD,BSH,Desc
+10623,SPOT TEST FOR MALARIA,465,BLOOD,BSH,Desc
+10624,Malaria Ag (ICT),620,BLOOD,BSH,Desc
+10625,Kala Azar Ab (ICT),621,BLOOD,BSH,Desc
+10626,Lipid Profile Serum (R),534,BLOOD,BSH,Desc
+10627,LFT Bilirubin+SGOT+SGPT+Alk Phos.+A/G R+TP,538,BLOOD,BSH,Desc
+10628,PHENOBARBITAL,539,BLOOD,BSH,Desc
+10629,V M A 24HRS URINE,540,URINE,BSH,Desc
+10630,Glucose 1hr ABF Blood,541,BLOOD,BSH,Desc
+10631,S Total Protein + S.Albumin,546,BLOOD,BSH,Desc
+10632,Glucose 1hr After Lunch Blood,555,BLOOD,BSH,Desc
+10633,Washed PRBC,BLD024,BLOOD,BSH,Desc
+10634,EGFR T790 Mutation,1317,BLOOD,BSH,Desc
+10635,PSA,106,BLOOD,BSH,Desc
+10636,USG Guided Charge,UG031,TISSUE,BSH,Desc
+10637,ANA (ELISA),313,BLOOD,BSH,Desc
+10638,Serum IgA Level,240,BLOOD,BSH,Desc
+10639,Serum IgG Level,242,BLOOD,BSH,Desc
+10640,Aldehyde Test,244,BLOOD,BSH,Desc
+10641,Pleural Fluid For Creatinine,1873,PLEURAL FLUID,BSH,Desc
+10642,TC/DC/ESR/Hb% - PMCT,1,WHOLE BLOOD,BSH,Desc
+10643,ESR/Hb%,2,WHOLE BLOOD,BSH,Desc
+10644,DC,4,WHOLE BLOOD,BSH,Desc
+10645,Dengue Antibody IgM ICT,1661,BLOOD,BSH,Desc
+10646,Dengue Antibody IgG & IgM,1662,BLOOD,BSH,Desc
+10647,TC (Fluid),1663,FLUID,BSH,Desc
+10648,Tracreal Asparate for pneumocystis Jeruvecii (Carinii) Microscopy,1664,FLUID,BSH,Desc
+10649,Lt Conjunctival Swab for C/S,1665,CONJUNCTIVAL SWAB,BSH,Desc
+10650,Rt Conjunctival Swab for C/S,1666,CONJUNCTIVAL SWAB,BSH,Desc
+10651,Rt Ear (Aural) Swab for C/S,1667,EAR (AURAL) SWAB,BSH,Desc
+10652,Lt Ear (Aural) Swab for C/S,1668,EAR (AURAL) SWAB,BSH,Desc
+10653,Creatinine - Body Fluid,1976,FLUID,BSH,Desc
+10654,Haemoglobin - Urine,1792,URINE,BSH,Desc
+10655,CBC,617,BLOOD,BSH,Desc
+10656,Wet Film & Gram Stain,412,HVS,BSH,Desc
+10657,Cross Match B-Cell,808,BLOOD,BSH,Desc
+10658,24 hrs Urinary Cortisol,454,URINE,BSH,Desc
+10659,CERALOPLASMIN ASSAY,460,BLOOD,BSH,Desc
+10660,SPOT TEST FOR DENGUE,466,BLOOD,BSH,Desc
+10661,Dengue Antibody IgM,473,BLOOD,BSH,Desc
+10662,ESR,5,WHOLE BLOOD,BSH,Desc
+10663,Haemoglobin (HB%),6,WHOLE BLOOD,BSH,Desc
+10664,Blood Film (PBF),7,WHOLE BLOOD,BSH,Desc
+10665,VMA 24hrs Urine,80,URINE,BSH,Desc
+10666,PRP/Unit (more than 10ml),BLD010,BLOOD,BSH,Desc
+10667,Albumin Creatinine Ratio (ACR) - Urine,890,URINE,BSH,Desc
+10668,Anti-Cardiolipin AB,1445,BLOOD,BSH,Desc
+10669,Urine for Myoglobin,BIO1986,URINE,BSH,Desc
+10670,Semen for Fructose,1794,SEMEN,BSH,Desc
+10671,Opiate (ICT),1796,URINE,BSH,Desc
+10672,Growth Hormone 1 hr after 50 gm Syndopa,1961,BLOOD,BSH,Desc
+10673,Growth Hormone Stimulation (3 Samples) with 275 mg Syndopa,1962,BLOOD,BSH,Desc
+10674,Growth Hormone 1/2 hr after 275 mg Syndopa,1963,BLOOD,BSH,Desc
+10675,Growth Hormone 1 hr after 275 mg Syndopa,1964,BLOOD,BSH,Desc
+10676,CD30,1318,As Required,BSH,Desc
+10677,T3,54,BLOOD,BSH,Desc
+10678,Paps Smear Reporting,1332,PAPS SMEAR,BSH,Desc
+10679,CK-7,21,TISSUE,BSH,Desc
+10680,"Immunohistochemistry (CD3, CD15, CD30, CD20, CD45, Tdt)		",156,TISSUE,BSH,Desc
+10681,CK 5/6,352,TISSUE,BSH,Desc
+10682,"Immunohistochemistry lymphoma panel		",1230,TISSUE,BSH,Desc
+10683,Histopath - Sample Supply,1231,TISSUE,BSH,Desc
+10684,Frozen Section,1232,BLOOD,BSH,Desc
+10685,"Immunohistochemistry trephine biopsy		",1233,TISSUE,BSH,Desc
+10686,AFP (Alpha-Feto-Protein),109,BLOOD,BSH,Desc
+10687,Cannabinoid Urine (ICT),1797,URINE,BSH,Desc
+10688,Benzodiazepines Urine (ICT),1798,URINE,BSH,Desc
+10689,Glucose 2hrs After Dinner Blood,314,BLOOD,BSH,Desc
+10690,PLC/Unit,BLD009,BLOOD,BSH,Desc
+10691,Glucose-6-Phosphate Dehydrogenase(G6PD),318,BLOOD,BSH,Desc
+10692,Haptoglobin,320,BLOOD,BSH,Desc
+10694,GTT - 3 Samples,32,BLOOD & URINE,BSH,Desc
+10696,BUN,34,BLOOD,BSH,Desc
+10697,CK20,1234,As Required,BSH,Desc
+10698,Tissue For AFB,1864,TISSUE,BSH,Desc
+10699,EML4-ALK Fusion Gene,1695,TISSUE,BSH,Desc
+10700,HMB45,1696,As Required,BSH,Desc
+10701,FDP (Fibrin Degradation Product),345,BLOOD,BSH,Desc
+10702,HSV 1 & 2 IgM,354,BLOOD,BSH,Desc
+10703,Chlamydia antibody,356,BLOOD,BSH,Desc
+10704,"Anti-TB IgA, IgG, IgM",376,BLOOD,BSH,Desc
+10705,Rubella IgM,378,BLOOD,BSH,Desc
+10706,Toxoplasma IgG,381,BLOOD,BSH,Desc
+10707,Anti thyroid peroxde Ab,384,BLOOD,BSH,Desc
+10708,Anti-Rubella IgG,410,BLOOD,BSH,Desc
+10709,Toxoplasma IgM AB,414,BLOOD,BSH,Desc
+10710,Peritoneal Fluid For Potassium(K+),1869,FLUID,BSH,Desc
+10711,Peritoneal Fluid For Phosphate(PO4),1870,FLUID,BSH,Desc
+10712,Peritoneal Fluid for Chloride,1871,FLUID,BSH,Desc
+10713,Pleural  Fluid For Amylase,1872,PLEURAL FLUID,BSH,Desc
+10714,Lithium Serum,269,BLOOD,BSH,Desc
+10715,WRCC/Unit,BLD019,URINE,BSH,Desc
+10716,Anti-RNP 70/Anti-RNP,1238,BLOOD,BSH,Desc
+10717,Anti-Phospholipid IgM,1444,BLOOD,BSH,Desc
+10718,METHOTREXATE,1439,BLOOD,BSH,Desc
+10719,Free-T3/F-T3,55,BLOOD,BSH,Desc
+10695,Blood glucose 2H post meal,33,BLOOD,SNOMED CT,Desc
+10720,ASO Titre,82,BLOOD,BSH,Desc
+10721,Serum Digoxin Level,261,BLOOD,BSH,Desc
+10722,"T3, T4, TSH",282,BLOOD,BSH,Desc
+10723,RT PCR for Rota Virus,289,STOOL,BSH,Desc
+10724,Anti-Thyroid Antibody,292,BLOOD,BSH,Desc
+10725,Ovarian/adnexal cyst-small,1264,BLOOD,BSH,Desc
+10726,Ovarian/adnexal cyst-medium to large,1265,BLOOD,BSH,Desc
+10727,Endometrial curattage,1266,As Required,BSH,Desc
+10728,"Fibroid-small, single",1269,BLOOD,BSH,Desc
+10729,"Fibroid-multple, small",1271,BLOOD,BSH,Desc
+10730,"Fibroid-multiple, large",1272,BLOOD,BSH,Desc
+10731,TOXOPLASMA IgM AB,415,BLOOD,BSH,Desc
+10732,Anti TG,56,BLOOD,BSH,Desc
+10733,Rh  Antibody Detection,BLD014,BLOOD,BSH,Desc
+10734,C4,286,BLOOD,BSH,Desc
+10735,Tracheal Aspirate for C/S,1679,TRACHEAL ASPIRATE,BSH,Desc
+10736,Tracheal Aspirate for Gram Stain,1680,TRACHEAL ASPIRATE,BSH,Desc
+10737,Tracheal Aspirate for AFB,1681,TRACHEAL ASPIRATE,BSH,Desc
+10738,"Breast Lump, single-small",1294,As Required,BSH,Desc
+10739,Breast Lump-multiple,1296,As Required,BSH,Desc
+10740,"Omental Tissue, small",1297,BLOOD,BSH,Desc
+10741,"Omental Tissue, medium to large",1298,BLOOD,BSH,Desc
+10742,"Intraoparative cytology consultancy fees		",1300,As Required,BSH,Desc
+10743,"Intraoperative Consultation Fee		",1301,As Required,BSH,Desc
+10744,CD20,1303,BLOOD,BSH,Desc
+10745,Prostatic tissue (TUR) above 5 gm,1304,BLOOD,BSH,Desc
+10746,Prostatic tissue (TUR) below 5 gm,1305,BLOOD,BSH,Desc
+10747,HDL Cholesterol Serum,53,BLOOD,BSH,Desc
+10748,CSF Biochemistry,65,FLUID,BSH,Desc
+10749,Urine Lipase,70,URINE,BSH,Desc
+10750,CSF for Genexpert,15,CSF,BSH,Desc
+10751,HVS (High Vaginal Swab) for R/E,1409,HVS,BSH,Desc
+10752,Prostatic Smear for Gram Stain,1410,PROSTATIC SMEAR,BSH,Desc
+10753,Bile for C/S,1411,Bile Fluid,BSH,Desc
+10754,TC (WBC),3,WHOLE BLOOD,BSH,Desc
+10755,Growth Hormone Basal,1686,BLOOD,BSH,Desc
+10756,Renal Tissue for DIF,1687,BLOOD,BSH,Desc
+10757,"PSA Total, Free & Ratio",559,BLOOD,BSH,Desc
+10758,GTT - 4 Samples,444,BLOOD & URINE,BSH,Desc
+10759,Dengue Fever Antibody,453,BLOOD,BSH,Desc
+10760,Japanes B.Encephalitis Ab,456,BLOOD,BSH,Desc
+10761,GTT - 2 Samples,467,BLOOD & URINE,BSH,Desc
+10762,Rh (D) Antibody Detection & titre,BLD015,BLOOD,BSH,Desc
+10763,Platelet Apheresis,BLD012,BLOOD,BSH,Desc
+10764,MAGNESIUM,521,BLOOD,BSH,Desc
+10765,Bcl2,1654,As Required,BSH,Desc
+10766,Bcl6,1655,As Required,BSH,Desc
+10767,CD1a,1657,As Required,BSH,Desc
+10768,Appendix,1286,BLOOD,BSH,Desc
+10769,Lymph node-single,1287,BLOOD,BSH,Desc
+10770,"Immunohistochemistry-6		",1290,TISSUE,BSH,Desc
+10771,"Immunohistochemistry-7		",1291,TISSUE,BSH,Desc
+10772,KRAS Mutation,1314,As Required,BSH,Desc
+10773,EGFR Mutation Blood,1316,As Required,BSH,Desc
+10774,Spot Urine for Calcium,2012,URINE,BSH,Desc
+10775,Micro Albumin Urine 24hrs,1710,URINE,BSH,Desc
+10776,Urinary Albumin 24hrs,1711,URINE,BSH,Desc
+10777,Pericardial Fluid For Amylase,1799,PERICARDIAL FLUID,BSH,Desc
+10778,Anti-Smooth muscle Ab,422,BLOOD,BSH,Desc
+10779,Pericardial Fluid for AFB,1475,PERICARDIAL FLUID,BSH,Desc
+10780,RF Test,1441,As Required,BSH,Desc
+10781,i-STAT CHEM8+,574,Not Found,BSH,Desc
+10782,Stock FFP,BLD016,BLOOD,BSH,Desc
+10783,Electrophoresis Protein Serum,358,BLOOD.,BSH,Desc
+10784,Benzodiazepines Urine,360,URINE,BSH,Desc
+10785,Coomb's test(DAT+IAT),BLD004,BLOOD,BSH,Desc
+10786,Urinary Volume 24Hrs,364,URINE,BSH,Desc
+10787,Magnesium Serum,371,BLOOD,BSH,Desc
+10788,Serum Phenytoin Level,390,BLOOD,BSH,Desc
+10789,Serum Ammonia,391,Plasma,BSH,Desc
+10790,Total Protein & Albumin Serum,418,BLOOD,BSH,Desc
+10791,Glucose 2hrs After Lunch Plasma,279,BLOOD,BSH,Desc
+10792,ABO grouping + Rh(D)typing + Hb screening,BLD002,BLOOD,BSH,Desc
+10793,Grouping+ICT+Cross Matching + Screening,BLD008,BLOOD,BSH,Desc
+10794,GAMMA-GT Serum,290,BLOOD,BSH,Desc
+10795,Potassium Serum,291,BLOOD,BSH,Desc
+10796,Micro Albumin - Urine,159,URINE,BSH,Desc
+10797,Glucose 2hrs After 75gm Glucose Blood,211,BLOOD,BSH,Desc
+10798,Bilirubin Total/Direct/Indirect Serum,214,BLOOD,BSH,Desc
+10799,Chloride Serum,222,BLOOD,BSH,Desc
+10800,"Vitamin D3 / Vitamin-D (25,OH Cholecalciferol)",A2000,BLOOD,BSH,Desc
+10801,HBs Ag,183,BLOOD,BSH,Desc
+10802,Umbilical Swab for C/S,1669,UMBITICAL SWAB,BSH,Desc
+10803,Urethral Discharge for C/S,1670,URETHRAL DISCHARGE,BSH,Desc
+10804,Oral (Mouth) Swab for C/S,1671,ORAL SWAB,BSH,Desc
+10805,75 gm Glucose,75,Not Found,BSH,Desc
+10806,TPHA (ICT),1660,BLOOD,BSH,Desc
+10807,Growth Hormone Stimulation (3 Samples) with 50 mg Syndopa,1738,BLOOD,BSH,Desc
+10808,Growth Hormone 1/2 hr after 50 gm Syndopa,1960,BLOOD,BSH,Desc
+10809,Hb% Electrophoresis (Urgent 48Hrs),993,BLOOD,BSH,Desc
+10810,Insulin-like Growth Factor- 1 (IGF-1),1192,BLOOD,BSH,Desc
+10811,Hb% Electrophoresis (Urgent 24Hrs),1193,BLOOD,BSH,Desc
+10812,e-GFR(Estimated G. Filtration Rate-MDRD),1225,Not Specified,BSH,Desc
+10813,Ammonia Blood,1226,BLOOD,BSH,Desc
+10814,Serum GLOBULIN,1240,BLOOD,BSH,Desc
+10815,BT/CT,8,WHOLE BLOOD,BSH,Desc
+10816,HbA1c,39,WHOLE BLOOD,BSH,Desc
+10817,Immunohistochemistry-12,1495,TISSUE,BSH,Desc
+10818,Dengue Antibody IgG,474,BLOOD,BSH,Desc
+10819,"Pre-medical: HBsAg, VDRL, TPHA, CXR",520,BLOOD,BSH,Desc
+10820,S TEGRATOL,535,BLOOD,BSH,Desc
+10821,D-Xylose Absorption,270,BLOOD,BSH,Desc
+10822,Iron Serum,272,BLOOD,BSH,Desc
+10823,Anti-Phospholipid AB,1442,BLOOD,BSH,Desc
+10824,"Histo (Small)		",1477,TISSUE,BSH,Desc
+10825,Urinary Potassium 24hrs,434,URINE,BSH,Desc
+10826,CMV DNA,854,BLOOD PLASMA,BSH,Desc
+10827,Mycodot for Anti-TB,174,BLOOD,BSH,Desc
+10828,Semen Analysis,26,SEMEN,BSH,Desc
+10829,Stool-Occult Blood Test (OBT),27,STOOL,BSH,Desc
+10830,Urine Specific Gravity,28,URINE,BSH,Desc
+10831,Anti-H Pylori IgG,110,BLOOD,BSH,Desc
+10832,Absolute Neutrophil Count,397,WHOLE BLOOD,BSH,Desc
+10833,Brain Abscess For C/S,1345,Brain Abscess,BSH,Desc
+10834,Cervical for Cytology,1349,PAPS SMEAR,BSH,Desc
+10835,Anti-HBc Total,187,BLOOD,BSH,Desc
+10836,Plasma Epinephrine,191,BLOOD,BSH,Desc
+10837,Anti-smooth muscle antibody (ASMA),194,BLOOD,BSH,Desc
+10838,EBV Panel of Abs2,198,BLOOD,BSH,Desc
+10839,Anti-TB IgG,199,BLOOD,BSH,Desc
+10840,HBs Ab,204,BLOOD,BSH,Desc
+10841,Herpes Simplex Virus-I IgG,205,BLOOD,BSH,Desc
+10842,HBe Ag,184,BLOOD,BSH,Desc
+10843,HLA-A Typing (DNA Based)-(HLA-A Typing (DNA Based)),695,BLOOD,BSH,Desc
+10844,"HLA-A,B",697,BLOOD,BSH,Desc
+10845,HLA-B 1502-(HLA-B 1502),696,BLOOD,BSH,Desc
+10846,Anti-TB IgG,112,BLOOD,BSH,Desc
+10847,Anti- Mitochondrial Antibodies (AMA),113,BLOOD,BSH,Desc
+10848,Anti-TB IgA,114,BLOOD,BSH,Desc
+10849,Ferritin,116,BLOOD,BSH,Desc
+10850,Anti-Scl 70,117,BLOOD,BSH,Desc
+10851,Cyclin D1,1273,As Required,BSH,Desc
+10852,EBV,1274,As Required,BSH,Desc
+10853,"Immunohistochemistry-2		",1275,TISSUE,BSH,Desc
+10854,"Immunohistochemistry-4		",1277,TISSUE,BSH,Desc
+10855,Urea Serum,35,BLOOD,BSH,Desc
+10856,Pleural Fluid For Phosphate(PO4),1877,FLUID,BSH,Desc
+10857,Pleural Fluid for Chloride,1878,FLUID,BSH,Desc
+10858,AFB,9660,FLUID,BSH,Desc
+10859,Sodium Valproic Acid Serum,1888,BLOOD,BSH,Desc
+10860,Anti-Chlamydia Trachomatis IgG-( Anti-Chlamydia TrachomatisIgG),315,BLOOD,BSH,Desc
+10861,HSV 1 & 2 IgG,328,BLOOD,BSH,Desc
+10862,Uterus and cervix with adnexae,1261,As Required,BSH,Desc
+10863,Catheter Tip for C/S,1690,Catheter Tip,BSH,Desc
+10864,Serum ADA,1691,BLOOD,BSH,Desc
+10865,Creatinine Serum (Post-Dialysis),1692,BLOOD,BSH,Desc
+10866,EGFR MUTATION,1693,TISSUE,BSH,Desc
+10867,Opiate Urine,235,URINE,BSH,Desc
+10868,Cannabinoid Urine,236,URINE,BSH,Desc
+10869,Glucose 1hr After 75gm Glucose Blood,324,BLOOD,BSH,Desc
+10870,GLUCOMETRE,325,BLOOD,BSH,Desc
+10871,CSF for C/S,1455,CSF,BSH,Desc
+10872,ALK,1302,BLOOD,BSH,Desc
+10873,LDL Cholesterol Serum,74,BLOOD,BSH,Desc
+10874,Acid Phosphatase Serum,75,BLOOD,BSH,Desc
+10875,Cir Eosinophil Count-Total,9,WHOLE BLOOD,BSH,Desc
+10876,Reticulocyte Count,11,WHOLE BLOOD,BSH,Desc
+10877,RBC Count,12,WHOLE BLOOD,BSH,Desc
+10878,LE Cell,13,WHOLE BLOOD,BSH,Desc
+10879,PCV,161,WHOLE BLOOD,BSH,Desc
+10880,Platelet Count,163,WHOLE BLOOD,BSH,Desc
+10881,HCT,164,WHOLE BLOOD,BSH,Desc
+10882,TC DC ESR -PMCT,216,WHOLE BLOOD,BSH,Desc
+10883,Blood for CBC (PMCT+P/C),218,BLOOD,BSH,Desc
+10884,Osmolality Urine,115,URINE,BSH,Desc
+10885,HSV IgG (II),1215,BLOOD,BSH,Desc
+10886,HSV IgM (II),1216,BLOOD,BSH,Desc
+10887,Pericardial Fluid For Electrolytes,1804,FLUID,BSH,Desc
+10888,Ascitic Fluid for ADA,1805,ASCITIC FLUID,BSH,Desc
+10889,Pericardial Fluid For Potassium(K+),1806,FLUID,BSH,Desc
+10890,Pericardial Fluid For Phosphate(PO4),1807,FLUID,BSH,Desc
+10891,CSF For LDH,1810,FLUID,BSH,Desc
+10892,Anti-Cardiolipin IgG,1811,BLOOD,BSH,Desc
+10893,Fluid for Albumin,1658,FLUID,BSH,Desc
+10894,Anti Measles Virus Ab (IgG & IgM),1659,BLOOD,BSH,Desc
+10895, GeneXpert MTB/RIF (TISSUE),END086,TISSUE,BSH,Desc
+10896,Gingival biopsy tissue,1278,As Required,BSH,Desc
+10897,Glucose 1.5hrs After 75gm Glucose Blood,558,BLOOD,BSH,Desc
+10898,VALPROATE LEVEL,561,BLOOD,BSH,Desc
+10900,Anti-Chlamydia IgM,1451,BLOOD,BSH,Desc
+10901,Synovial Fluid for Protein,1497,SYNOVIAL FLUID,BSH,Desc
+10902,Spot Urine Calcium Creatinine Ratio,463,WHOLE BLOOD,BSH,Desc
+10903,TC/DC/HB%/ESR+PLATELETS COUNT-PMCT,616,WHOLE BLOOD,BSH,Desc
+10904,Cytology,22,FLUID,BSH,Desc
+10905,FNAC Both Breast,146,Aspirated fluid,BSH,Desc
+10906,FNAC,147,Aspirated fluid,BSH,Desc
+10907,Glucose Before Lunch Blood,294,BLOOD,BSH,Desc
+10908,W.B/Unit,BLD018,BLOOD,BSH,Desc
+10909,RCC/Unit,BLD013,BLOOD,BSH,Desc
+10910,Urine Phase contrast microscopy,392,URINE,BSH,Desc
+10911,MTB DNA,773,URINE,BSH,Desc
+10912,Valproic Acid Blood,569,BLOOD,BSH,Desc
+10913,CUS,614,URINE,BSH,Desc
+10914,Blood Gas Analysis Arterial (ABG),832,BLOOD.,BSH,Desc
+10915,LFT Bilirubin+SGOT+SGPT+Alk Phos,866,BLOOD,BSH,Desc
+10916,Cytomegalo Virus (CMV) IgM,382,BLOOD,BSH,Desc
+10917,Blood Glucose - GT (2-SAMPLE),513,BLOOD,BSH,Desc
+10918,Bile Salt,78,URINE,BSH,Desc
+10919,Fibrin Degradation Product (FDP),88,BLOOD,BSH,Desc
+10920,CRP Quantitative,433,BLOOD,BSH,Desc
+10921,ALT(SGPT) Serum,41,BLOOD,BSH,Desc
+10922,Karyotyping of Human Chromosome,1887,BLOOD,BSH,Desc
+10923,Osmolality Urine,1895,URINE,BSH,Desc
+10924,Peritoneal Fluid For Amylase,1865,FLUID,BSH,Desc
+10925,Peritoneal Fluid For Creatinine,1866,PERITONEAL FLUID,BSH,Desc
+10926,Peritoneal Fluid For Lipase,1867,PERITONEAL FLUID,BSH,Desc
+10927,Testosterone,57,BLOOD,BSH,Desc
+10928,LH,58,BLOOD,BSH,Desc
+10929,Leptospiral ab (ICT),59,BLOOD,BSH,Desc
+10930,Progesterone,60,BLOOD,BSH,Desc
+10931,Estradiol/Oestrogen,61,BLOOD,BSH,Desc
+10932,DHEA-SO4,89,BLOOD,BSH,Desc
+10933,S. Homocysteine,96,BLOOD,BSH,Desc
+10934,Free-T4/F-T4,98,BLOOD,BSH,Desc
+10935,FSH,99,BLOOD,BSH,Desc
+10936,Creatinine Clearance Rate (CCR),37,BLOOD & URINE,BSH,Desc
+10937,Electrolytes Serum,38,BLOOD.,BSH,Desc
+10938,Bilirubin Total Blood,40,BLOOD,BSH,Desc
+10939,AST (SGOT) Serum,42,BLOOD,BSH,Desc
+10940,Alkaline Phosphatase Serum (ALP),43,BLOOD,BSH,Desc
+10941,A/G Ratio (Albumin & Globulin) Serum,45,BLOOD,BSH,Desc
+10942,24 hrs Urinary free Cortisol,619,URINE,BSH,Desc
+10943,Plasma Renin Activity,667,BLOOD,BSH,Desc
+10944,Cardiolipin IgG,669,BLOOD,BSH,Desc
+10945,Cardiolipin IgM,670,BLOOD,BSH,Desc
+10946,ETHYL ALCOHOL,1790,BLOOD,BSH,Desc
+10947,Amphetamine (ICT),1791,URINE,BSH,Desc
+10948,T zank (Cytology),1897,FLUID,BSH,Desc
+10949,Osmolality Blood,79,BLOOD,BSH,Desc
+10950,Pericardial Fluid For Creatinine,1800,FLUID,BSH,Desc
+10951,"Adenosine Deaminase, fluid (ADA, 256 fluid)",1803,FLUID,BSH,Desc
+10952,Throat Swab for KLB,1402,THROAT SWAB,BSH,Desc
+10953,T4,100,BLOOD,BSH,Desc
+10954,CEA,103,BLOOD,BSH,Desc
+10955,Urethral Discharge for AFB,1408,URETHRAL DISCHARGE,BSH,Desc
+10956,CSF for Chloride,1453,FLUID,BSH,Desc
+10957,CSF for Glucose,1454,FLUID,BSH,Desc
+10958,Anti-Cardiolipin IgM,1812,BLOOD,BSH,Desc
+10959,Pericardial Fluid for Chloride,1863,FLUID,BSH,Desc
+10960,Anti-PR3 Antibody,120,BLOOD,BSH,Desc
+10961,Plasma  Norepinephrine,185,BLOOD,BSH,Desc
+10962,Slit Skin Smear for Leprae Bacilli,19,SLIT SKIN SMEAR,BSH,Desc
+10963,D-Dimer,889,BLOOD,BSH,Desc
+10964,Sputum for Fungal Stain,1403,SPUTUM.,BSH,Desc
+10965,Sputum for Gram Stain,1404,SPUTUM,BSH,Desc
+10966,Sputum for AFB,1405,SPUTUM,BSH,Desc
+10967,Urethral  Swab for R/M/E,1406,As Required,BSH,Desc
+10968,Urethral Discharge for Gram Stain,1407,URETHRAL DISCHARGE,BSH,Desc
+10969,Amylase Serum,46,BLOOD,BSH,Desc
+10970,CPK /CK Serum,47,BLOOD,BSH,Desc
+10971,Uric Acid Serum,48,BLOOD,BSH,Desc
+10972,Calcium Urine 24hrs,49,URINE,BSH,Desc
+10973,Cholesterol Serum,51,BLOOD,BSH,Desc
+10974,Triglycerides Serum,52,BLOOD,BSH,Desc
+10975,ACTH,1640,BLOOD,BSH,Desc
+10976,HVS for Gram Stain,1412,HVS,BSH,Desc
+10977,Serum Vitamin B12,426,BLOOD,BSH,Desc
+10978,Glucose Before Dinner Blood,429,BLOOD,BSH,Desc
+10979,Acid Phosphate-PROSTATIC,430,BLOOD,BSH,Desc
+10980,CK-MB Serum,72,BLOOD,BSH,Desc
+10981,Anti TPO,1260,BLOOD,BSH,Desc
+10982,i-STAT cTnl (Troponin I),ISTAT-01,BLOOD,BSH,Desc
+10983,"i-STAT CG8+ (Na, K, iCa, Glu, Hct,Hgb, pH, PCo2, PO2, TCO2, HC0, BE,sO2)",ISTAT-02,Not Found,BSH,Desc
+10984,"i-STAT CG4+ (Lactate, pH, PCO2, PO2, TCO2, HCO3, BE, sO2)",ISTAT-03,Not Found,BSH,Desc
+10985,i-STAT BNP,ISTAT-04,BLOOD,BSH,Desc
+10986,Serum Procalcitonin,BG011,BLOOD,BSH,Desc
+10987,Bone Marrow Study,Bo145,BLOOD,BSH,Desc
+10988,Bleeding Time(BT),3520,WHOLE BLOOD,BSH,Desc
+10989,Cocaine(Urine),221,Not Specified,BSH,Desc
+10990,"BONE MARROW, IRON STAIN",C1039,WHOLE BLOOD,BSH,Desc
+10991,Plasmapheresis (Per Day),BLD011,Not Found,BSH,Desc
+10992,RPR (Syphilis- Antibody),3437,SERUM,BSH,Desc
+10993,Clotting Time(CT),8951,WHOLE BLOOD,BSH,Desc
+10994,Complete Urine Analysis (Urine R/E),0024_D,URINE,BSH,Desc
+10995,mucicarmine stain,histo12548,TISSUE,BSH,Desc
+10996,HSV I & II PCR (CSF),0105_D,CSF,BSH,Desc
+10997,Echinococcus Ab (IHA),0313_D,BLOOD,BSH,Desc
+10998,HSV I & II Rt PCR (CSF)-(HSV I & II Rt PCR (CSF)),0107_D,BLOOD,BSH,Desc
+10999,TTF1 Stain-(TTF1 Stain),6666,TISSUE,BSH,Desc
+11000,Serum  Prolactin,IMO-1200,BLOOD,BSH,Desc
+11001,Anti-CCP IgG (Immulite),0933_D,BLOOD,BSH,Desc
+11002,HIV Ag/Ab Combo Assay,8795,BLOOD,BSH,Desc
+11003,"(S046) MITOCHONDRIAL ANTIBODY (AMA), IFA",lap862,BLOOD,BSH,Desc
+11004,Herpes Simplex Virus I-II IgG & IgM (LIAISON),0359_D,BLOOD,BSH,Desc
+11005,Urine for sugar,bio-102,URINE,BSH,Desc
+11006,HBsAg,1003,BLOOD,BSH,Desc
+11007,PGx MTHFR,PGx8,WHOLE BLOOD,BSH,Desc
+11008,Plasma Ammonia (F),2502,BLOOD,BSH,Desc
+11009,Baccal Swab for C/S,1350,THROAT SWAB,BSH,Desc
+11010,Brain Abscess For Fungal C/S,12589,Brain Abscess,BSH,Desc
+11011,ABD confirmation test,787,Not Found,BSH,Desc
+11012,Urine for Genexpert,bio-478,URINE,BSH,Desc
+11013,BAL for fungus-(BAL for fungus),micro12548,BAL,BSH,Desc
+11014,Synovial fluid for crystal analysis,Histo1258,SYNOVIAL FLUID,BSH,Desc
+11015,Inorganic Phosphate(PO4),145896,BLOOD,BSH,Desc
+11016,CAPD Fluid for Fungus,CYTO12,FLUID,BSH,Desc
+11017,CAPD Fluid for AFB,Cyto365,FLUID,BSH,Desc
+11018,CAPD Fluid for Gram Stain,Cyto-24,FLUID,BSH,Desc
+11019,Giemsa Stain,histo14587,TISSUE,BSH,Desc
+11020,JAK2 (V617F) Mutation (Qualitative),PGx6,WHOLE BLOOD,BSH,Desc
+11021,PGx of Phenytoin,PGx5,WHOLE BLOOD,BSH,Desc
+11022,PGx of Carbamazepine,PGx7,WHOLE BLOOD,BSH,Desc
+11023,PGx of Azathioprine,PGx3,WHOLE BLOOD,BSH,Desc
+11024,PGx of Methotrexate,PGx4,WHOLE BLOOD,BSH,Desc
+11025,PGx of Clopidogrel,PGx1,WHOLE BLOOD,BSH,Desc
+11026,PGx of Warfarin,PGx2,WHOLE BLOOD,BSH,Desc
+11027,Uroflowmetry-(Uroflowmetry),U001,URINE,BSH,Desc
+11028,Gama GT,B-001,BLOOD,BSH,Desc
+11029,Air culture from LSH Dialysis,ICS13,AIR,BSH,Desc
+11030,Air culture from LSH Oncology,ICS14,AIR,BSH,Desc
+11031,Air culture from LSH IVF,ICS15,AIR,BSH,Desc
+11032,Air culture from LSH Level 4 Cabin,ICS16,AIR,BSH,Desc
+11033,Air culture from LSH Level 5 Cabin,ICS17,AIR,BSH,Desc
+11034,Air culture from LSH Level 6 Cabin,ICS18,AIR,BSH,Desc
+11035,Environmental swab from General Surgery OT,ICS19,SWAB,BSH,Desc
+11036,Anti HEV ICT (IgM),9949,BLOOD,BSH,Desc
+11037,Wound Swab for C/S  (FAN Mathod),9900,WOUND SWAB,BSH,Desc
+11038,Von Willebrand's Factor,h145,BLOOD.,BSH,Desc
+11039,HEV ICT (IgG & IgM),9548,BLOOD,BSH,Desc
+11040,Environmental swab from Neurosurgery OT,ICS20,SWAB,BSH,Desc
+11041,Environmental swab from Orthopedic OT,ICS21,SWAB,BSH,Desc
+11042,Environmental swab from Urology OT,ICS22,SWAB,BSH,Desc
+11043,Environmental swab from Ophthalmology OT,ICS23,SWAB,BSH,Desc
+11044,Wound Swab for Genexpert,ICS24,CSF,BSH,Desc
+11045,Environmental swab from ENT OT,ICS25,SWAB,BSH,Desc
+11046,Environmental swab from ICU,ICS26,SWAB,BSH,Desc
+11047,Environmental swab from NICU,ICS27,SWAB,BSH,Desc
+11048,Environmental swab from HDU,ICS28,SWAB,BSH,Desc
+11049,Environmental swab from POW,ICS29,SWAB,BSH,Desc
+11050,Environmental swab from Neuro HDU,ICS30,SWAB,BSH,Desc
+11051,Salivary Cortisol,8955,Saliva,BSH,Desc
+11052, Medicin Charge for Testicular Scan,0687M,Not Found,BSH,Desc
+11053,24-Hour Urinary  Copper,Bio12456,URINE,BSH,Desc
+11054,I-stat creatinine,ISTAT-05,Not Found,BSH,Desc
+11055,Air Culture From LSH Generel Surgery OT,ICS01,AIR,BSH,Desc
+11056,Air culture from LSH Neurosurgery OT,ICS02,AIR,BSH,Desc
+11057,Air culture from LSH Orthopedic OT,ICS03,AIR,BSH,Desc
+11058,Endometrial Tissue for MTB PCR,ICS04,TISSUE,BSH,Desc
+11059,Air culture from LSH Ophthalmology O,ICS05,AIR,BSH,Desc
+11060,Air culture from LSH Gynae OT,ICS06,AIR,BSH,Desc
+11061,Air culture from LSH ENT OT,ICS07,AIR,BSH,Desc
+11062,Air culture from LSH ICU,ICS08,AIR,BSH,Desc
+11063,Pericardial Fluid for TB Culture,ICS09,PERICARDIAL FLUID,BSH,Desc
+11064,Pericardial Fluid for Genexpert,ICS10,PERICARDIAL FLUID,BSH,Desc
+11065,Urine for Gram Stain,U002,URINE,BSH,Desc
+11066,CD10,2111,BLOOD,BSH,Desc
+11067,Air culture from LSH POW,ICS11,AIR,BSH,Desc
+11068,Insulin Dependent Growth Hormone,9666,BLOOD,BSH,Desc
+11069,Growth Hormone 1 hr after 75 gms of Oral Glucose,9667,BLOOD,BSH,Desc
+11070,Air culture from LSH Neuro HDU,ICS12,AIR,BSH,Desc
+11071,Cus 3hrs After 75gm Glucose,16121,URINE,BSH,Desc
+11072,"Fresh W/B, PBRC (Same Donor within 5 Days without Grouping Cross Matching & Screening)",BLD006,BLOOD,BSH,Desc
+11073,Environmental swab from CSSD,ICC17,SWAB,BSH,Desc
+11074,Environmental swab from Laundry,ICC18,SWAB,BSH,Desc
+11075,Environmental swab from HC/SD L-5,ICC19,SWAB,BSH,Desc
+11076,Environmental swab from  L-6 high care,ICC20,SWAB,BSH,Desc
+11077,Ki-67,ICC21,TISSUE,BSH,Desc
+11078,Environmental swab from Blood Bank,ICC22,SWAB,BSH,Desc
+11079,"Renal Function Test (Urea, Creatinine, Electrolytes)",2646,BLOOD,BSH,Desc
+11080,Chikungunya ICT (IgG & IgM),9547,BLOOD,BSH,Desc
+11081,Total Leucocyte count (TLC),TO001,BLOOD,BSH,Desc
+11082,Herpes Simplex Virus-I & II IgM (LIAISON),1568_D,BLOOD,BSH,Desc
+11083,Herpes Simplex Virus-I & II IgG (LIAISON),1569_D,BLOOD,BSH,Desc
+11084,Herpes Simplex Virus-II IgM (Immulite),1570_D,BLOOD,BSH,Desc
+11085,Herpes Simplex Virus-I IgG (Immulite),0205_D,BLOOD,BSH,Desc
+11086,Brain Tissue For Fungal Culture,His-01,TISSUE,BSH,Desc
+11087,Anti HEV IgG,imu-14,BLOOD,BSH,Desc
+11088,Diabetes Monitor,8888,BLOOD.,BSH,Desc
+11089,PGx Aspirin Test,PG0001,WHOLE BLOOD,BSH,Desc
+11090,Thyroglobulin-(Thyroglobulin),25845,BLOOD,BSH,Desc
+11091,CSF For Japanese -B,bio1254,CSF,BSH,Desc
+11092,CSF For Toxoplasma,bio1247,CSF,BSH,Desc
+11093,CSF For Rubella,bio12548,CSF,BSH,Desc
+11094,CSF For Cytomegalovirus,imm154,CSF,BSH,Desc
+11095,Amphetamine,1791_D,URINE,BSH,Desc
+11096,Chikungunya Antibody Igg ICT,1598746,BLOOD,BSH,Desc
+11097,Lactate Plasma,8815,Plasma,BSH,Desc
+11098,Air Culture from Cardiac OT-1,ICC01,AIR,BSH,Desc
+11099,Air Culture from Cardiac OT-2,ICC02,AIR,BSH,Desc
+11100,Tracheal  Aspirate For Genexpert,12355,TRACHEAL ASPIRATE,BSH,Desc
+11101,Air Culture from Cath Lab - 1,ICC03,AIR,BSH,Desc
+11102,Air Culture from Cath Lab - 2,ICC04,AIR,BSH,Desc
+11103,Air Culture from Cardiac ICU,ICC05,AIR,BSH,Desc
+11104,Air Culture from CCU - 1,ICC06,AIR,BSH,Desc
+11105,Air Culture from CCU - 2,ICC07,AIR,BSH,Desc
+11106,Stool for Clostridium Difficile (RT PCR Method),ICC08,STOOL,BSH,Desc
+11107,Environmental swab from Cardiac OT - 1,ICC09,SWAB,BSH,Desc
+11108,Environmental swab from Cardiac OT - 2,ICC10,SWAB,BSH,Desc
+11109,Environmental swab from Cath Lab - 1,ICC11,SWAB,BSH,Desc
+11110,Environmental swab from Cath Lab - 2,ICC12,SWAB,BSH,Desc
+11111,Environmental swab from Cardiac ICU,ICC13,SWAB,BSH,Desc
+11112,Parathyroid hormone (iPTH),ICC14,BLOOD,BSH,Desc
+11113,Environmental swab from CCU - 2,ICC15,SWAB,BSH,Desc
+11114,Environmental swab from Post Cath,ICC16,SWAB,BSH,Desc
+11115,BAL for fungus culture,11111,BAL,BSH,Desc
+11116,BAL fluid for Genexpert-(BAL fluid for Genexpert),2222,BAL,BSH,Desc
+11117,Environmental swab from Dialysis,ICS31,SWAB,BSH,Desc
+11118,Environmental swab from Oncology,ICS32,SWAB,BSH,Desc
+11119,Environmental swab from IVF,ICS33,SWAB,BSH,Desc
+11120,Environmental swab from Level 4 Cabin,ICS34,SWAB,BSH,Desc
+11121,Environmental swab from Level 5 Cabin,ICS35,SWAB,BSH,Desc
+11122,Environmental swab from Level 6 Cabin,ICS36,SWAB,BSH,Desc
+11123,Spot Urine for Potassium,1700,URINE,BSH,Desc
+11124,CULTURE & SENSITIVITY,END165,Not Found,BSH,Desc
+11125,TB Culture,END166,Not Found,BSH,Desc
+11126,TB Sensitivity,END167,Not Found,BSH,Desc
+11127,AFB STAIN,END168,Not Found,BSH,Desc
+11128,G.M.S STAIN,END169,URINE,BSH,Desc
+11129,Fungal Culture,END170,Not Found,BSH,Desc
+11130,BODY FLUID CELL COUNT,END171,Not Found,BSH,Desc
+11131,MTB-PCR,END172,Not Found,BSH,Desc
+11132,CCP (400ml),Blood-Ccp,BLOOD,BSH,Desc
+11133,Stock CCP (200ml),Stock-Ccp,BLOOD,BSH,Desc
+11134,Real Time PCR for COVID-19,DMC69,Nasopharyngeal Swab/ Oropharyngeal Swab ,BSH,Desc
+11135,Real time covid-19,test001,Not Found,BSH,Desc
+10001,Peritoneal Fluid for Amylase,1980,PERITONEAL FLUID,BSH,Sample Desc
+10011,Pleural Fluid for Malignant Cell,1486,PLEURAL FLUID,BSH,A malignant pleural effusion (MPE) is the build up of fluid and cancer cells that collects between the chest wall and the lung. This can cause you to have chest discomfort as well as feel short of breath. It is a fairly common complication in a number of different cancers.
+10693,FBG - Fasting blood glucose,31,BLOOD,SNOMED CT,Desc
+10453,RBG - Random blood glucose,30,BLOOD,SNOMED CT,Desc
+10259,Blood calcium level,237,BLOOD,SNOMED CT,Desc
+10899,Serum creatinine level,36,BLOOD,SNOMED CT,Desc
