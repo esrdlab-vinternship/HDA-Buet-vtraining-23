@@ -17,7 +17,7 @@ class Query5:
                 "GROUP BY s.year, u.division "
         cur.execute(query)
         result = cur.fetchall()
-        pd_data = pd.DataFrame(list(result), columns=['division', 'sales', 'year'])
+        pd_data = pd.DataFrame(list(result), columns=['division', 'year', 'sales'])
         pd_data['sales'] = pd_data['sales'].astype('float64')
         pd_data = pd_data.dropna()
         # print(pd_data)

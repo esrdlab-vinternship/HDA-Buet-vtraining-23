@@ -18,7 +18,7 @@ class Query8:
                 ") AS t " \
                 "WHERE row_num=1 "
         cur.execute(query)
-        result = cur.fetchall()
+        result = cur.fetchall()[0:12]
         pd_data = pd.DataFrame(list(result), columns=['item_name', 'quarter'])
         pd_data = pd_data.dropna()
         # print(pd_data)

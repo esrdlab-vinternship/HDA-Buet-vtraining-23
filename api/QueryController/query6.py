@@ -18,7 +18,7 @@ class Query6:
                 ") AS t " \
                 "WHERE t.row_num <= 3"
         cur.execute(query)
-        result = cur.fetchall()
+        result = cur.fetchall()[0:12]
         pd_data = pd.DataFrame(list(result), columns=['store', 'item', 'units'])
         pd_data = pd_data.dropna()
         # print(pd_data)
