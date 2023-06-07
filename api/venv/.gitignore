@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+.idea/
+**/*.ipynb_checkpoints/
+.ipynb_checkpoints/
