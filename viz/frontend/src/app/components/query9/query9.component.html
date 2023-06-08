@@ -1,0 +1,18 @@
+<div class="container">
+  <legend>
+    <h4>Q9: Break down the total sales of items geographically (division-wise).</h4>
+  </legend>
+  <div class="row">
+    <div class="col-12">
+      <div class="chart-wrapper">
+        <canvas baseChart
+                [type]="'bar'"
+                [datasets]="chartData"
+                [labels]="chartLabels"
+                [options]="chartOptions">
+        </canvas>
+      </div>
+    </div>
+  </div>
+</div>
+

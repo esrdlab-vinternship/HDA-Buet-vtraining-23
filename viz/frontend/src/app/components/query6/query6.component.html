@@ -1,0 +1,17 @@
+<div class="container">
+  <legend>
+    <h4>Q6: For each store(item supplier), what are the top three products offered that are most often purchased?
+    </h4>
+  </legend>
+  <div class="row">
+    <div class="col-12 p-2">
+      <div class="card p-2 text-center">
+        <h2 class="text-primary text-center">Query 6</h2>
+        <h3 style="color: green;">Store_ID - item - quantity</h3>
+        <h4 *ngFor="let data of data_all">
+          {{data.store_ID}} - {{data.item}} - {{data.quantity}}
+        </h4>
+      </div>
+    </div>
+  </div>
+</div>

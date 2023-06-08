@@ -65,7 +65,7 @@ export class Query1Component implements OnInit {
   query1Data(): void {
     this.queryService.getQuery1().subscribe((data: any) => {
         for (const d of data) {
-          console.log(d)
+         // console.log(d)
           this.division.push(d.division)
           this.sales.push(d.sales)
         }

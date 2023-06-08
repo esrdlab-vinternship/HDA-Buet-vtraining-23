@@ -3,7 +3,7 @@ import {Observable} from "rxjs";
 import {HttpClient} from "@angular/common/http";
 
 const baseUrl = 'http://127.0.0.1:5000/api'
-const baseUrlOther = 'http://127.0.0.1:5000/api1'
+//const baseUrlOther = 'http://127.0.0.1:5000/api1'
 
 @Injectable({
   providedIn: 'root'
@@ -20,11 +20,35 @@ export class QueryService {
   getQuery2(): Observable <any> {
     return this.http.get<any>(`${baseUrl}/query2`);
   }
+  getQuery3(): Observable<any> {
+    return this.http.get<any>(`${baseUrl}/query3`);
+  }
+  getQuery4(): Observable<any> {
+    return this.http.get<any>(`${baseUrl}/query4`);
+  }
+  getQuery5(): Observable<any> {
+    return this.http.get<any>(`${baseUrl}/query5`);
+  }
+  getQuery6(): Observable<any> {
+    return this.http.get<any>(`${baseUrl}/query6`);
+  }
   getQuery7(days?:any): Observable <any> {
     const headers = { 'content-type': 'application/json'}
     const body=JSON.stringify({'days': days});
-    return this.http.post(`${baseUrlOther}/query7`, body,{'headers':headers})
+    //return this.http.post(`${baseUrlOther}/query7`, body,{'headers':headers})
+    return this.http.post(`${baseUrl}/query7`, body,{'headers':headers})
+
   }
+  getQuery8(): Observable<any> {
+    return this.http.get<any>(`${baseUrl}/query8`);
+  }
+  getQuery9(): Observable<any> {
+    return this.http.get<any>(`${baseUrl}/query9`);
+  }
+  getQuery10(): Observable<any> {
+    return this.http.get<any>(`${baseUrl}/query10`);
+  }
+
 
   getHello(): Observable<any>{
     return this.http.get(`${baseUrl}/hello`)

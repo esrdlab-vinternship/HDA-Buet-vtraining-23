@@ -5,27 +5,29 @@ import {query} from "@angular/animations";
 import {HttpClient} from "@angular/common/http";
 
 @Component({
-  selector: 'app-query3',
-  templateUrl: './query3.component.html',
-  styleUrls: ['./query3.component.css']
+  selector: 'app-query5',
+  templateUrl: './query5.component.html',
+  styleUrls: ['./query5.component.css']
 })
-export class Query3Component implements OnInit {
+export class Query5Component implements OnInit {
 
   data_all: any[] = [];
   division: any[] = [];
+  year: any[] = [];
   sales: any[] = [];
   constructor(private queryService: QueryService, private http: HttpClient) {
   }
 
   ngOnInit() {
-    this.query3Data();
+    this.query5Data();
   }
 
-  query3Data(): void {
-    this.queryService.getQuery3().subscribe((data: any) => {
+  query5Data(): void {
+    this.queryService.getQuery5().subscribe((data: any) => {
         for (const d of data) {
           // console.log(d)
           this.division.push(d.division)
+          this.year.push(d.year)
           this.sales.push(d.sales)
         }
         this.data_all = data;

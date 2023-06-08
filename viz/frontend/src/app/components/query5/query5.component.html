@@ -1,6 +1,6 @@
 <div class="container">
   <legend>
-    <h4>Q3: Total sales in Barisal </h4>
+    <h4>Q5: Total sales of Barisal in 2015 </h4>
   </legend>
   <div class="row">
     <div class="col-12">
@@ -14,9 +14,9 @@
           <div class="collapse multi-collapse" id="multiCollapseExample1">
             <div class="card card-body">
               <div class="row">
-                <h3>Division - Total sales</h3>
+                <h3>Division - Year - Total sales</h3>
                 <div class="col-12" *ngFor="let d of data_all">
-                  {{d.division}} - {{d.sales}}
+                  {{d.division}} - {{d.year}} - {{d.sales}}
                 </div>
               </div>
             </div>

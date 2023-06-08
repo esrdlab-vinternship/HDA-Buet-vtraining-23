@@ -1,0 +1,17 @@
+<div class="container">
+  <legend>
+    <h4>Q8: What season(quarter) is the worst for each product item?
+    </h4>
+  </legend>
+  <div class="row">
+    <div class="col-12 p-2">
+      <div class="card p-2 text-center">
+        <h2 class="text-primary text-center">Query 8</h2>
+        <h3 style="color: green;">item - quarter - sales</h3>
+        <h4 *ngFor="let data of data_all">
+          {{data.item_name}} - {{data.quarter}} - {{data.sales}}
+        </h4>
+      </div>
+    </div>
+  </div>
+</div>

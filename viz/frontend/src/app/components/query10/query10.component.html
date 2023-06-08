@@ -1,0 +1,56 @@
+<div class="container">
+  <legend>
+    <h4>Q10: What are the average sales of products sales per store monthly?
+    </h4>
+  </legend>
+  <div class="row">
+    <div class="col-12">
+      <div class="card shadow">
+        <div class="card-header text-center h4">
+          Chart (Store - month - average_sales)
+          <a class="btn btn-secondary btn-sm float-end" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button"
+             aria-expanded="false" aria-controls="multiCollapseExample1">Toggle</a>
+        </div>
+        <div class="card-body">
+          <div class="collapse multi-collapse" id="multiCollapseExample1">
+            <div class="card card-body">
+              <div class="row">
+                <div class="col-4" *ngFor="let d of data_all">
+                  {{d.store_ID}} - {{d.month}} - {{d.average_sales}}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+
+  <div class="row">
+    <div class="col-12">
+      <div class="card shadow">
+        <div class="card-header text-center h4">
+          Graph
+          <button class="btn btn-secondary btn-sm float-end" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2"
+                  aria-expanded="false" aria-controls="multiCollapseExample2">Toggle
+          </button>
+        </div>
+        <div class="card-body">
+          <div class="collapse multi-collapse" id="multiCollapseExample2">
+            <div class="card card-body">
+              <div class="chart-wrapper">
+                <canvas baseChart
+                        [type]="'line'"
+                        [datasets]="chartData"
+                        [labels]="chartLabels"
+                        [options]="chartOptions">
+                </canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
