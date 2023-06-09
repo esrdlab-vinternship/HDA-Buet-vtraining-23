@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="row">
+    <div class="col-4 p-2">
+      <div class="card p-2 text-center">
+        <h2 class="text-primary text-center">Query 2</h2>
+        <h4 *ngFor="let data of data_all">
+          {{data.trans_type}} - {{data.sales}}
+        </h4>
+      </div>
+    </div>
+    <div class="col-8">
+      <div class="chart-wrapper">
+        <canvas baseChart
+                [type]="'line'"
+                [datasets]="chartData"
+                [labels]="chartLabels"
+                [options]="chartOptions">
+        </canvas>
+      </div>
+    </div>
+  </div>
+</div>
+

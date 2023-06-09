@@ -17,7 +17,7 @@ class Query4:
                 "ORDER BY s.year "
         cur.execute(query)
         result = cur.fetchall()
-        pd_data = pd.DataFrame(list(result), columns=['division', 'sales'])
+        pd_data = pd.DataFrame(list(result), columns=['year', 'sales'])
         pd_data['sales'] = pd_data['sales'].astype('float64')
         pd_data = pd_data.dropna()
         # print(pd_data)
