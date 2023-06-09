@@ -14,7 +14,7 @@ export class QueryService {
   }
 
   getQuery1(): Observable<any> {
-    return this.http.get<any>(`${baseUrl}/query1`);
+    return this.http.get<any>(`${baseUrl}/q1_1`);
   }
 
   getQuery2(): Observable <any> {
