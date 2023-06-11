@@ -14,7 +14,7 @@ class Query1(object):
                 "GROUP BY CUBE(st.division) ORDER BY st.division "
         cursor.execute(query)
         result = cursor.fetchall()
-        df = pd.DataFrame(list(result), columns=['Division', 'Total Price'])
+        df = pd.DataFrame(list(result), columns=['Division', 'TotalPrice'])
         df = df.dropna()
         cursor.close()
         return df.to_dict(orient='records')
