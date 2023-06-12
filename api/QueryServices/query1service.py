@@ -7,6 +7,7 @@ class Query1API(MethodView):
     def __init__(self):
         self.q1 = Query1()
 
+    #name should be get, post not get1
     def get(self):
         result = self.q1.execute1() ## Dataframe
         # print(jsonify(result))

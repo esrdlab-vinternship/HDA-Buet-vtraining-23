@@ -11,8 +11,8 @@ class Query1:
         con = PostgresConnection().getConnection()
         cur = con.cursor()
         query = "select s.division, sum(t.total_price) " \
-                "from star_schema.fact_table t " \
-                "join star_schema.store_dim s on s.store_key=t.store_key " \
+                "from ecomdb_star_schema.fact_table t " \
+                "join ecomdb_star_schema.store_dim s on s.store_key=t.store_key " \
                 "group by cube(s.division)" \
                 "order by s.division"
         cur.execute(query)
